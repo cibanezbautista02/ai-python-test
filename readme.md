@@ -31,10 +31,12 @@ Para que la suite de validación pueda ejecutar los tests, debes implementar est
 - **POST** `/v1/requests/{id}/process`
 - **Lógica esperada:**
     1. **Extracción:** Llamar a la IA en `localhost:3001/v1/ai/extract`.
-    2. **Prompting:** Diseñar instrucciones para que la IA devuelva un JSON con: `{"to": "...", "message": "...", "type": "email|sms"}`.
+    2. **Prompting:** Diseñar un `system prompt` para extraer: `{"to": "...", "message": "...", "type": "email|sms"}`.
     3. **Guardrails:** Implementar lógica para limpiar y validar la respuesta (quitar Markdown, corregir JSON mal formado, etc).
     4. **Notificación:** Si es válido, enviar a `localhost:3001/v1/notify`.
 - **Output:** `200 OK` o `202 Accepted`
+
+> **Nota sobre el prompt:** Para garantizar la estabilidad de los tests, el mock utiliza lógica interna para resolver la extracción. Sin embargo, la calidad y robustez de tus instrucciones (prompting) serán factores determinantes en la evaluación humana.
 
 ### 3. Consulta de Estado
 - **GET** `/v1/requests/{id}`
