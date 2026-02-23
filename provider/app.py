@@ -131,23 +131,21 @@ async def notify(
     
     async with semaphore:
         now = time.time()
-        
         request_counts = [t for t in request_counts if now - t < 10]
-        
         if len(request_counts) >= RATE_LIMIT_THRESHOLD:
             logger.warning("429 Rate Limit Exceeded")
-            response.status_code = status.HTTP_429_TOO_MANY_REQUESTS
-            return {"error": "Rate limit exceeded"}
-        
+            raise HTTPException(
+                status_code=status.HTTP_429_TOO_MANY_REQUESTS,
+                detail="Rate limit exceeded"
+            )
         request_counts.append(now)
-
         await asyncio.sleep(random.uniform(LATENCY_MIN, LATENCY_MAX))
-
         if random.random() < FAIL_RATE:
             logger.error("500 Random Failure triggered")
-            response.status_code = status.HTTP_500_INTERNAL_SERVER_ERROR
-            return {"error": "External server error"}
-
+            raise HTTPException(
+                status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                detail="External server error"
+            )
         return {
             "status": "delivered", 
             "provider_id": f"p-{random.randint(1000, 9999)}"
