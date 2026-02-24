@@ -1,0 +1,3782 @@
+{
+    "5250e994-0869-4256-a826-92532d953e12": {
+        "id": "5250e994-0869-4256-a826-92532d953e12",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "83499dba-abd3-4153-aa4e-f90728ca26f4": {
+        "id": "83499dba-abd3-4153-aa4e-f90728ca26f4",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "3c76ee06-75cd-4b27-aacc-676012e9bc44": {
+        "id": "3c76ee06-75cd-4b27-aacc-676012e9bc44",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "a4ff72bc-033f-4795-a17c-86cdd1e1cb74": {
+        "id": "a4ff72bc-033f-4795-a17c-86cdd1e1cb74",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "784a2616-783f-4919-8534-1bb64a1d03fd": {
+        "id": "784a2616-783f-4919-8534-1bb64a1d03fd",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "0dfad476-00a6-4f21-94c1-5dd30f541c11": {
+        "id": "0dfad476-00a6-4f21-94c1-5dd30f541c11",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "5755247d-7f15-400d-a8a3-451cb921dbcc": {
+        "id": "5755247d-7f15-400d-a8a3-451cb921dbcc",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "09d02ee5-18d7-4528-b4e5-d14d52616dde": {
+        "id": "09d02ee5-18d7-4528-b4e5-d14d52616dde",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "abd4384d-faf1-4e3a-9d16-65794dd982d2": {
+        "id": "abd4384d-faf1-4e3a-9d16-65794dd982d2",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "bc2dd994-f231-4f50-9ee9-9c8c3ef89725": {
+        "id": "bc2dd994-f231-4f50-9ee9-9c8c3ef89725",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "5b422d9f-78f2-42b9-ad6b-cb2c23b17b6d": {
+        "id": "5b422d9f-78f2-42b9-ad6b-cb2c23b17b6d",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "2201b688-83f6-4f6c-89e3-11fb28d2239e": {
+        "id": "2201b688-83f6-4f6c-89e3-11fb28d2239e",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "2e3238ff-0e55-40a2-bd34-fcabafd84cee": {
+        "id": "2e3238ff-0e55-40a2-bd34-fcabafd84cee",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "18eab0f6-b7db-4cb6-9787-4d108d7137c1": {
+        "id": "18eab0f6-b7db-4cb6-9787-4d108d7137c1",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "c0c2808e-0ea1-4e3c-a820-bc4d4ab0a6f2": {
+        "id": "c0c2808e-0ea1-4e3c-a820-bc4d4ab0a6f2",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "82f3dcbf-8bf5-4802-96ac-60e41564094f": {
+        "id": "82f3dcbf-8bf5-4802-96ac-60e41564094f",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "abab4bc2-2c5c-4722-b2f5-7022d2610e29": {
+        "id": "abab4bc2-2c5c-4722-b2f5-7022d2610e29",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "e176ca32-614c-46a1-80c2-a422fc5008cb": {
+        "id": "e176ca32-614c-46a1-80c2-a422fc5008cb",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "f3fe06e0-dcb5-4ebd-87ae-f0bc09c62464": {
+        "id": "f3fe06e0-dcb5-4ebd-87ae-f0bc09c62464",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "94c0ddec-d968-4591-b746-f3917402d234": {
+        "id": "94c0ddec-d968-4591-b746-f3917402d234",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "159288c8-40d4-4c80-b1b2-62e4e9952d1c": {
+        "id": "159288c8-40d4-4c80-b1b2-62e4e9952d1c",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "8df9f9a8-5ccc-4a88-938a-8fbaf98b5862": {
+        "id": "8df9f9a8-5ccc-4a88-938a-8fbaf98b5862",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "6f15968a-1598-4916-acd4-c7d81399affb": {
+        "id": "6f15968a-1598-4916-acd4-c7d81399affb",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "a39cc0a0-c75b-4f25-a7a8-79addb538381": {
+        "id": "a39cc0a0-c75b-4f25-a7a8-79addb538381",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "76a4126e-f315-46fb-b093-29e389b069de": {
+        "id": "76a4126e-f315-46fb-b093-29e389b069de",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "a345bccd-4742-4f21-96d4-7c1dcac57140": {
+        "id": "a345bccd-4742-4f21-96d4-7c1dcac57140",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "d82afe37-ee2e-4e07-ac01-58a9290d302a": {
+        "id": "d82afe37-ee2e-4e07-ac01-58a9290d302a",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "ce29cbfa-b14b-4d87-81a0-dd0ae799b5c2": {
+        "id": "ce29cbfa-b14b-4d87-81a0-dd0ae799b5c2",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "b1975eb6-b487-42d4-ad6c-80a7b9793eae": {
+        "id": "b1975eb6-b487-42d4-ad6c-80a7b9793eae",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "7a1f7607-d2a3-45c0-a110-ae971af810db": {
+        "id": "7a1f7607-d2a3-45c0-a110-ae971af810db",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "6758b5db-4e6d-4f32-ab5f-3a30cbc797f0": {
+        "id": "6758b5db-4e6d-4f32-ab5f-3a30cbc797f0",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "07b33311-36c0-44f0-b5db-e66595836cc9": {
+        "id": "07b33311-36c0-44f0-b5db-e66595836cc9",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "a7948e58-3e62-4b89-ac35-03ea76d32bea": {
+        "id": "a7948e58-3e62-4b89-ac35-03ea76d32bea",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "7e1e6fc1-6ab5-4d08-91df-671f0c3d92e1": {
+        "id": "7e1e6fc1-6ab5-4d08-91df-671f0c3d92e1",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "3530e382-aac2-476b-ad57-d44364f714b9": {
+        "id": "3530e382-aac2-476b-ad57-d44364f714b9",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "1bb879fe-48ae-437a-8a93-16b5965d3a67": {
+        "id": "1bb879fe-48ae-437a-8a93-16b5965d3a67",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "d8bda46d-3764-487f-ab5a-2764fa7a3e26": {
+        "id": "d8bda46d-3764-487f-ab5a-2764fa7a3e26",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "076eaefb-66d2-4aca-8467-c84e18667678": {
+        "id": "076eaefb-66d2-4aca-8467-c84e18667678",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "d18cd8e8-c7d7-4205-a116-91cfa5ea91fc": {
+        "id": "d18cd8e8-c7d7-4205-a116-91cfa5ea91fc",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "e2202313-6147-4b45-aeaf-6e233760f016": {
+        "id": "e2202313-6147-4b45-aeaf-6e233760f016",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "82dcebcf-7512-4a8e-8b0f-2723feb0648f": {
+        "id": "82dcebcf-7512-4a8e-8b0f-2723feb0648f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "f9a32a1d-08e3-4349-af53-01f9a2a351cb": {
+        "id": "f9a32a1d-08e3-4349-af53-01f9a2a351cb",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "55515243-4af9-4e16-9caf-2368de066ff9": {
+        "id": "55515243-4af9-4e16-9caf-2368de066ff9",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "bc00b0ed-c73f-459d-9e01-de1f9c70709d": {
+        "id": "bc00b0ed-c73f-459d-9e01-de1f9c70709d",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "06c81461-0125-4977-b484-06c50fb138a0": {
+        "id": "06c81461-0125-4977-b484-06c50fb138a0",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "9ee079aa-e998-4cfe-8ac9-ffcf77dd6a89": {
+        "id": "9ee079aa-e998-4cfe-8ac9-ffcf77dd6a89",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "97d96d63-05e2-4c95-aa2b-c3d5736980a5": {
+        "id": "97d96d63-05e2-4c95-aa2b-c3d5736980a5",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "b41e3e3d-c687-46fb-b50c-06346db77218": {
+        "id": "b41e3e3d-c687-46fb-b50c-06346db77218",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "6893ac57-7302-4ddc-9f5d-259bdd6d2745": {
+        "id": "6893ac57-7302-4ddc-9f5d-259bdd6d2745",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "7d452f98-df41-4d2e-b46e-4341e5b0a7c9": {
+        "id": "7d452f98-df41-4d2e-b46e-4341e5b0a7c9",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "41921f27-e8aa-467b-96fb-537e5c483123": {
+        "id": "41921f27-e8aa-467b-96fb-537e5c483123",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "50d8f60b-a399-47e6-acef-2f64da8d1872": {
+        "id": "50d8f60b-a399-47e6-acef-2f64da8d1872",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "53df247f-4820-4866-9931-15c815e54d79": {
+        "id": "53df247f-4820-4866-9931-15c815e54d79",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "6fa08559-38aa-4f96-a73f-5de97b63bb74": {
+        "id": "6fa08559-38aa-4f96-a73f-5de97b63bb74",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "3634c6d0-cc89-4ccf-866a-3e76d0d4674f": {
+        "id": "3634c6d0-cc89-4ccf-866a-3e76d0d4674f",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "2a70b5ea-9c8d-4b4c-8dea-41994ec45b61": {
+        "id": "2a70b5ea-9c8d-4b4c-8dea-41994ec45b61",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "580bb3fa-949a-42d0-a6ac-423b977f3aea": {
+        "id": "580bb3fa-949a-42d0-a6ac-423b977f3aea",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "4a1eef63-3c4f-4a1e-a24b-8db8843eec6a": {
+        "id": "4a1eef63-3c4f-4a1e-a24b-8db8843eec6a",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "691d7fac-0922-4456-9c9b-b05db15a1f4f": {
+        "id": "691d7fac-0922-4456-9c9b-b05db15a1f4f",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "981b86af-b0bc-46c2-8cd6-baa24d6baeac": {
+        "id": "981b86af-b0bc-46c2-8cd6-baa24d6baeac",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "b1062a66-5830-45ad-8a61-2deb4ef6bdd4": {
+        "id": "b1062a66-5830-45ad-8a61-2deb4ef6bdd4",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "9c97588b-6e2c-4121-8c1f-3638d48909f2": {
+        "id": "9c97588b-6e2c-4121-8c1f-3638d48909f2",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "74d4055c-8021-425b-8ef1-a6985e425136": {
+        "id": "74d4055c-8021-425b-8ef1-a6985e425136",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "44867d08-68de-44e7-b84e-a00ea7671644": {
+        "id": "44867d08-68de-44e7-b84e-a00ea7671644",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "643e8a1f-717f-423c-ac8d-09e0795de87c": {
+        "id": "643e8a1f-717f-423c-ac8d-09e0795de87c",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "3b212157-2880-4f81-8bb8-056045120be2": {
+        "id": "3b212157-2880-4f81-8bb8-056045120be2",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "ef37b37a-ad7e-4bdd-b067-f8412a9674a7": {
+        "id": "ef37b37a-ad7e-4bdd-b067-f8412a9674a7",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "4906de48-6ed1-4b37-80de-20900bcc0338": {
+        "id": "4906de48-6ed1-4b37-80de-20900bcc0338",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "5ad652ef-a58a-43cb-992d-1a3d780ea23d": {
+        "id": "5ad652ef-a58a-43cb-992d-1a3d780ea23d",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "c0daa7af-cc40-45f5-89f8-8621d148ae23": {
+        "id": "c0daa7af-cc40-45f5-89f8-8621d148ae23",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "33682a80-cfa3-4565-bbd5-86a9029b0f89": {
+        "id": "33682a80-cfa3-4565-bbd5-86a9029b0f89",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "256e3072-2947-46d2-b59e-363fc5bf95eb": {
+        "id": "256e3072-2947-46d2-b59e-363fc5bf95eb",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "e95708dd-500c-444b-b3bc-40dfcb98dc4e": {
+        "id": "e95708dd-500c-444b-b3bc-40dfcb98dc4e",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "6d3564c8-a976-41a9-ab60-28cf24c3d7a3": {
+        "id": "6d3564c8-a976-41a9-ab60-28cf24c3d7a3",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "650ed97a-bdc3-43a9-be9a-b2fad2de0a45": {
+        "id": "650ed97a-bdc3-43a9-be9a-b2fad2de0a45",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "ab13055c-71bf-49e9-a525-8f803b9b2419": {
+        "id": "ab13055c-71bf-49e9-a525-8f803b9b2419",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "375322ca-5dfc-4329-b487-f7f65218671b": {
+        "id": "375322ca-5dfc-4329-b487-f7f65218671b",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "7d607f23-14df-4318-b37d-8810004fe154": {
+        "id": "7d607f23-14df-4318-b37d-8810004fe154",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "c24779f4-4d56-4c6a-bc99-3c95322dcbf4": {
+        "id": "c24779f4-4d56-4c6a-bc99-3c95322dcbf4",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "67e471e7-9341-4466-b17d-d687e6492d6e": {
+        "id": "67e471e7-9341-4466-b17d-d687e6492d6e",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "701fbadc-54b2-4ced-8ab1-a682bfc40736": {
+        "id": "701fbadc-54b2-4ced-8ab1-a682bfc40736",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "a1b79a88-b91c-4c19-bfc6-3065218d432c": {
+        "id": "a1b79a88-b91c-4c19-bfc6-3065218d432c",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "27e6c0b6-c5d6-4a62-8bc2-eee0be16495f": {
+        "id": "27e6c0b6-c5d6-4a62-8bc2-eee0be16495f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "64e2a797-4a87-4a16-a8d0-95738ac82e56": {
+        "id": "64e2a797-4a87-4a16-a8d0-95738ac82e56",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "7a255bd8-0cc8-4383-a17b-ceee35c960d8": {
+        "id": "7a255bd8-0cc8-4383-a17b-ceee35c960d8",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "79ed6a2e-f776-4151-a5f7-7e8c9ba2b126": {
+        "id": "79ed6a2e-f776-4151-a5f7-7e8c9ba2b126",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "cd73da06-b814-4cd3-8be0-f5baa8bbd7ce": {
+        "id": "cd73da06-b814-4cd3-8be0-f5baa8bbd7ce",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "c9993871-3276-401a-a0c1-917ba0488377": {
+        "id": "c9993871-3276-401a-a0c1-917ba0488377",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "7703a7cc-b415-4f39-9bc7-b1e7106d6d52": {
+        "id": "7703a7cc-b415-4f39-9bc7-b1e7106d6d52",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "7406a86f-bb3f-4441-aaa5-a21aef34fe89": {
+        "id": "7406a86f-bb3f-4441-aaa5-a21aef34fe89",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "ae587cbe-d7d4-4dfd-ae2a-5ef31c058778": {
+        "id": "ae587cbe-d7d4-4dfd-ae2a-5ef31c058778",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "9a4b786a-092f-405a-a324-46fe85eaf0ad": {
+        "id": "9a4b786a-092f-405a-a324-46fe85eaf0ad",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "8a09a5eb-1eaf-4018-8571-2991dd8adf9c": {
+        "id": "8a09a5eb-1eaf-4018-8571-2991dd8adf9c",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "7f3ce29b-a859-42b4-b916-1753a7a40514": {
+        "id": "7f3ce29b-a859-42b4-b916-1753a7a40514",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "caa0c2ad-8cbb-417d-bbd3-bf0c0c8aff3a": {
+        "id": "caa0c2ad-8cbb-417d-bbd3-bf0c0c8aff3a",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "02cddd6b-4b70-40e2-a525-66a0b97f0920": {
+        "id": "02cddd6b-4b70-40e2-a525-66a0b97f0920",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "88a25e11-29e6-4391-84f2-c90b6b4ec678": {
+        "id": "88a25e11-29e6-4391-84f2-c90b6b4ec678",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "c3a2c4b5-ba8d-41bc-acd4-f67ee74e4c95": {
+        "id": "c3a2c4b5-ba8d-41bc-acd4-f67ee74e4c95",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "b2d12079-5d80-4e33-8f3f-ef62c7057637": {
+        "id": "b2d12079-5d80-4e33-8f3f-ef62c7057637",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "507a088c-86e2-41f1-b09f-c145968f47ef": {
+        "id": "507a088c-86e2-41f1-b09f-c145968f47ef",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "1b149fd7-3f18-481b-ad69-c540e5d45926": {
+        "id": "1b149fd7-3f18-481b-ad69-c540e5d45926",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "59f221d9-4de5-4010-b135-cc3147d64ee0": {
+        "id": "59f221d9-4de5-4010-b135-cc3147d64ee0",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "38984a1d-8cea-4f2b-a591-1f9384013e96": {
+        "id": "38984a1d-8cea-4f2b-a591-1f9384013e96",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "122111ba-8ebb-4725-acaf-269e0801b2fa": {
+        "id": "122111ba-8ebb-4725-acaf-269e0801b2fa",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "fe8e6599-f194-48ef-976b-b96cb14df952": {
+        "id": "fe8e6599-f194-48ef-976b-b96cb14df952",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "e5781171-7f01-4521-88d4-68e50df6da68": {
+        "id": "e5781171-7f01-4521-88d4-68e50df6da68",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "be03ea4d-7979-4964-8e79-9f32724f4b81": {
+        "id": "be03ea4d-7979-4964-8e79-9f32724f4b81",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "ad2f6074-66e4-4d12-9ef8-aa270bf65e5d": {
+        "id": "ad2f6074-66e4-4d12-9ef8-aa270bf65e5d",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "f8e9c434-d05c-418e-aaf8-50dc320a93ea": {
+        "id": "f8e9c434-d05c-418e-aaf8-50dc320a93ea",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "3df0b6a2-fdae-4d72-88c0-68c0af8d06a9": {
+        "id": "3df0b6a2-fdae-4d72-88c0-68c0af8d06a9",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "4a6f3e48-973a-49fa-99ca-e55bbb691e05": {
+        "id": "4a6f3e48-973a-49fa-99ca-e55bbb691e05",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "47157fc6-f441-451a-8900-86cafc3fed21": {
+        "id": "47157fc6-f441-451a-8900-86cafc3fed21",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "1ca0c803-e974-4bae-85b5-be0e4daa5d4f": {
+        "id": "1ca0c803-e974-4bae-85b5-be0e4daa5d4f",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "bf55dd88-a69a-4169-977f-c636f5dafd3f": {
+        "id": "bf55dd88-a69a-4169-977f-c636f5dafd3f",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "ed368c59-2019-43e7-9bb9-03b59295460d": {
+        "id": "ed368c59-2019-43e7-9bb9-03b59295460d",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "94a8ac60-eda3-41d2-a120-b1045599a15c": {
+        "id": "94a8ac60-eda3-41d2-a120-b1045599a15c",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "47d2496d-25df-4823-bae3-cd65a55f04f9": {
+        "id": "47d2496d-25df-4823-bae3-cd65a55f04f9",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "7f62ffcb-cdb1-4f0d-8705-39c17537ac97": {
+        "id": "7f62ffcb-cdb1-4f0d-8705-39c17537ac97",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "d58e8d71-6b10-4de2-9564-47dcd38df3b1": {
+        "id": "d58e8d71-6b10-4de2-9564-47dcd38df3b1",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "b8f11807-cebb-4156-99ca-7a19cdb7d952": {
+        "id": "b8f11807-cebb-4156-99ca-7a19cdb7d952",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "2874bb09-b383-4af7-a24e-1a055a10f9dc": {
+        "id": "2874bb09-b383-4af7-a24e-1a055a10f9dc",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "d6b461a7-df6b-444a-ac3b-68ef9a9132e8": {
+        "id": "d6b461a7-df6b-444a-ac3b-68ef9a9132e8",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "e043a3cc-5c09-4553-bc21-208c4c3985a0": {
+        "id": "e043a3cc-5c09-4553-bc21-208c4c3985a0",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "8e4b7713-50c0-4edc-8c64-347ec96e0305": {
+        "id": "8e4b7713-50c0-4edc-8c64-347ec96e0305",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "978d92a9-0211-4844-9efe-a42a41c2fc77": {
+        "id": "978d92a9-0211-4844-9efe-a42a41c2fc77",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "7a4199b2-99bd-45db-b6a5-a14852b07d0c": {
+        "id": "7a4199b2-99bd-45db-b6a5-a14852b07d0c",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "798fdafd-1775-4a1d-9f47-34676f703e7f": {
+        "id": "798fdafd-1775-4a1d-9f47-34676f703e7f",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "c0076714-19f1-4b1e-81e3-3a396e7d66f8": {
+        "id": "c0076714-19f1-4b1e-81e3-3a396e7d66f8",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "b218820f-7ae0-4617-92b3-1b847b898bf3": {
+        "id": "b218820f-7ae0-4617-92b3-1b847b898bf3",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "56a11efc-a33b-48e3-8460-f772c82346e8": {
+        "id": "56a11efc-a33b-48e3-8460-f772c82346e8",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "97d6cc46-b71b-4392-88db-7ef2264898a4": {
+        "id": "97d6cc46-b71b-4392-88db-7ef2264898a4",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "aa617b95-8ac2-4363-a258-14d11d8cb6f5": {
+        "id": "aa617b95-8ac2-4363-a258-14d11d8cb6f5",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "f5459d29-2e91-4a1a-8d5f-0709002c9089": {
+        "id": "f5459d29-2e91-4a1a-8d5f-0709002c9089",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "5c264daa-2bf4-45ca-ba08-446463809e72": {
+        "id": "5c264daa-2bf4-45ca-ba08-446463809e72",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "14a2fffb-8197-4e5e-b2ec-c8abc30c9809": {
+        "id": "14a2fffb-8197-4e5e-b2ec-c8abc30c9809",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "2d4174a0-3851-4375-bf8d-c9d527c420c0": {
+        "id": "2d4174a0-3851-4375-bf8d-c9d527c420c0",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "5d98f06d-a439-435d-9217-91ece8921a73": {
+        "id": "5d98f06d-a439-435d-9217-91ece8921a73",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "24092457-1f9d-4c2f-8384-7df166b146cb": {
+        "id": "24092457-1f9d-4c2f-8384-7df166b146cb",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "7d1ef7ed-bcf2-47e8-8899-205c1d5fd5e8": {
+        "id": "7d1ef7ed-bcf2-47e8-8899-205c1d5fd5e8",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "554e369e-75e5-41f6-86f2-746204723082": {
+        "id": "554e369e-75e5-41f6-86f2-746204723082",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "6cfbf862-5299-4e9e-9d2b-f5302446fc95": {
+        "id": "6cfbf862-5299-4e9e-9d2b-f5302446fc95",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "a45212ef-ce3a-4bbe-a6d8-15e012811639": {
+        "id": "a45212ef-ce3a-4bbe-a6d8-15e012811639",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "5fb9379c-6972-4e90-84bb-db109add6319": {
+        "id": "5fb9379c-6972-4e90-84bb-db109add6319",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "dd2ab0aa-0f78-4f23-ba9c-7197d0724b1e": {
+        "id": "dd2ab0aa-0f78-4f23-ba9c-7197d0724b1e",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "5b2d1c11-6978-4b0b-8b88-aef3460ba76c": {
+        "id": "5b2d1c11-6978-4b0b-8b88-aef3460ba76c",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "b2b2d4cc-2a28-4af6-9409-0d900de3ae61": {
+        "id": "b2b2d4cc-2a28-4af6-9409-0d900de3ae61",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "35743ba6-3b49-43e3-bc99-f109fb9840a3": {
+        "id": "35743ba6-3b49-43e3-bc99-f109fb9840a3",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "e2db5ae4-a3d3-4245-aa86-e27d164e1750": {
+        "id": "e2db5ae4-a3d3-4245-aa86-e27d164e1750",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "14784e30-f2a3-4498-acd6-22ca0cd36c0c": {
+        "id": "14784e30-f2a3-4498-acd6-22ca0cd36c0c",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "fd98d282-a29e-47cf-9422-0e96d0e41945": {
+        "id": "fd98d282-a29e-47cf-9422-0e96d0e41945",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "7ef0bb2c-2305-42b0-b75a-8c9203969e47": {
+        "id": "7ef0bb2c-2305-42b0-b75a-8c9203969e47",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "8c7d4902-bd43-4065-8650-914ce3c28367": {
+        "id": "8c7d4902-bd43-4065-8650-914ce3c28367",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "0ad465dd-3d4c-4b5e-b4ae-08c05b8359d7": {
+        "id": "0ad465dd-3d4c-4b5e-b4ae-08c05b8359d7",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "93657daf-7b52-4cb1-b095-b6c1a9c7fc8c": {
+        "id": "93657daf-7b52-4cb1-b095-b6c1a9c7fc8c",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "8cac5612-756c-483e-b198-1d1320b176bd": {
+        "id": "8cac5612-756c-483e-b198-1d1320b176bd",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "d9ac9a18-7c42-4236-a8b7-8ae17dffac0e": {
+        "id": "d9ac9a18-7c42-4236-a8b7-8ae17dffac0e",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "08a107cd-6e06-4165-8b1f-c6a17eb6fc1e": {
+        "id": "08a107cd-6e06-4165-8b1f-c6a17eb6fc1e",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "9dd917df-4001-4b33-bda4-33f3c67684a4": {
+        "id": "9dd917df-4001-4b33-bda4-33f3c67684a4",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "81f4eb0c-94c4-415c-9551-40dfc26a15a5": {
+        "id": "81f4eb0c-94c4-415c-9551-40dfc26a15a5",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "c596c459-15fe-4245-9fd3-d488735b3948": {
+        "id": "c596c459-15fe-4245-9fd3-d488735b3948",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "2f4016d5-79ae-43e6-93e8-9876ffb34b75": {
+        "id": "2f4016d5-79ae-43e6-93e8-9876ffb34b75",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "b2c7b04a-933a-492c-8d03-5fc0bb62d9a5": {
+        "id": "b2c7b04a-933a-492c-8d03-5fc0bb62d9a5",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "85f5ad20-be10-4902-b97b-883ebc1456a7": {
+        "id": "85f5ad20-be10-4902-b97b-883ebc1456a7",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "ced99b03-c52f-41a1-a010-6ed8bd71770c": {
+        "id": "ced99b03-c52f-41a1-a010-6ed8bd71770c",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "8a00fc8f-3229-4b73-836a-a085d67b2d31": {
+        "id": "8a00fc8f-3229-4b73-836a-a085d67b2d31",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "8dd8fe1f-2cb2-4d29-8822-552298574771": {
+        "id": "8dd8fe1f-2cb2-4d29-8822-552298574771",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "dd2081f0-c92a-4253-b555-8df48e159e11": {
+        "id": "dd2081f0-c92a-4253-b555-8df48e159e11",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "4541091b-ac19-4392-8bd2-597520a0ddb7": {
+        "id": "4541091b-ac19-4392-8bd2-597520a0ddb7",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "302a6e5e-00ec-46ba-b4ee-88e59e43e02f": {
+        "id": "302a6e5e-00ec-46ba-b4ee-88e59e43e02f",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "62452ca3-d58b-405c-86cb-32902c8f6257": {
+        "id": "62452ca3-d58b-405c-86cb-32902c8f6257",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "2d0e8dd9-4691-4df1-b17b-9973d2bb2c52": {
+        "id": "2d0e8dd9-4691-4df1-b17b-9973d2bb2c52",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "cea886f5-2a81-4afc-8c36-f6b38a4abc1e": {
+        "id": "cea886f5-2a81-4afc-8c36-f6b38a4abc1e",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "6e4046ab-7e71-484a-bb56-ee36c7ce2337": {
+        "id": "6e4046ab-7e71-484a-bb56-ee36c7ce2337",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "934d9b87-1448-4e9e-856c-6cbaecb19c1d": {
+        "id": "934d9b87-1448-4e9e-856c-6cbaecb19c1d",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "52db2749-f52a-4917-89ac-57cdce88023e": {
+        "id": "52db2749-f52a-4917-89ac-57cdce88023e",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "0910576d-a8ec-4101-8c89-b65f868a1b91": {
+        "id": "0910576d-a8ec-4101-8c89-b65f868a1b91",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "c2d5d473-1ff6-413f-914a-5b04edf7afb9": {
+        "id": "c2d5d473-1ff6-413f-914a-5b04edf7afb9",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "0820dd87-2744-4bfb-81b3-261eb4f356d3": {
+        "id": "0820dd87-2744-4bfb-81b3-261eb4f356d3",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "a65ca469-51cc-448b-adc1-5ed2a96d7bae": {
+        "id": "a65ca469-51cc-448b-adc1-5ed2a96d7bae",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "1a93769c-a56c-47bf-8283-ac7035c770e6": {
+        "id": "1a93769c-a56c-47bf-8283-ac7035c770e6",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "0746bddb-f505-46da-a16c-aa2c5fafa85f": {
+        "id": "0746bddb-f505-46da-a16c-aa2c5fafa85f",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "10d28e3b-c5ea-46de-8cda-dd6f9ee2c0d3": {
+        "id": "10d28e3b-c5ea-46de-8cda-dd6f9ee2c0d3",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "b4c3b778-e62b-4a78-b498-f2d414d4b559": {
+        "id": "b4c3b778-e62b-4a78-b498-f2d414d4b559",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "4eafa1f1-bc8c-4ef7-b086-fb4036d4adfa": {
+        "id": "4eafa1f1-bc8c-4ef7-b086-fb4036d4adfa",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "4c4540b5-2570-4baf-b967-4a748b0ba0d8": {
+        "id": "4c4540b5-2570-4baf-b967-4a748b0ba0d8",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "e3bc9c43-e50d-4c40-9a7c-7780ad15e19f": {
+        "id": "e3bc9c43-e50d-4c40-9a7c-7780ad15e19f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "9a90db20-8d4a-4544-a8cd-8980574ef838": {
+        "id": "9a90db20-8d4a-4544-a8cd-8980574ef838",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "359c6d89-6403-46bb-8aa2-c4b2418ab246": {
+        "id": "359c6d89-6403-46bb-8aa2-c4b2418ab246",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "ddbb80ed-ba78-4570-aebf-f79fa976dd9c": {
+        "id": "ddbb80ed-ba78-4570-aebf-f79fa976dd9c",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "90707eb1-eaa3-4889-acd2-c05b2eeec802": {
+        "id": "90707eb1-eaa3-4889-acd2-c05b2eeec802",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "b6f5453d-fbce-426f-a43f-3ed4f29b7eb2": {
+        "id": "b6f5453d-fbce-426f-a43f-3ed4f29b7eb2",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "a7222113-b756-42da-897d-c17499503db3": {
+        "id": "a7222113-b756-42da-897d-c17499503db3",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "9c8a038d-466c-438b-a186-b45dd77bc82b": {
+        "id": "9c8a038d-466c-438b-a186-b45dd77bc82b",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "6349dc44-f2de-4b87-99f8-a0ea3b6d3798": {
+        "id": "6349dc44-f2de-4b87-99f8-a0ea3b6d3798",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "34c85a5f-5574-4fa5-bfd5-53867fc04c86": {
+        "id": "34c85a5f-5574-4fa5-bfd5-53867fc04c86",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "9ee41b50-30f2-4989-b02c-d1264f47c35c": {
+        "id": "9ee41b50-30f2-4989-b02c-d1264f47c35c",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "016e78fe-e40b-4c5b-9260-ac767d161208": {
+        "id": "016e78fe-e40b-4c5b-9260-ac767d161208",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "fcbf7832-c285-44f4-aa5e-be3eda64d91d": {
+        "id": "fcbf7832-c285-44f4-aa5e-be3eda64d91d",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "3354315b-3a31-44ef-9a0e-184a5649bdae": {
+        "id": "3354315b-3a31-44ef-9a0e-184a5649bdae",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "0269ace3-2481-415f-a2fc-e1ccbeabe4b5": {
+        "id": "0269ace3-2481-415f-a2fc-e1ccbeabe4b5",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "57a29a51-8c45-467a-a81f-c1893fb19afc": {
+        "id": "57a29a51-8c45-467a-a81f-c1893fb19afc",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "1d09cd19-0bb0-40b8-bfa0-37003e904e7f": {
+        "id": "1d09cd19-0bb0-40b8-bfa0-37003e904e7f",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "26f51d69-61cd-47c9-9797-f0d39af808bb": {
+        "id": "26f51d69-61cd-47c9-9797-f0d39af808bb",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "83d5b598-a1dd-4ed6-8ad2-b36d4d35fff1": {
+        "id": "83d5b598-a1dd-4ed6-8ad2-b36d4d35fff1",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "9d2581d8-60bf-496a-94d5-dfff581bcc0f": {
+        "id": "9d2581d8-60bf-496a-94d5-dfff581bcc0f",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "7db33e23-dd1e-48c4-a0ae-6b2dc61bd579": {
+        "id": "7db33e23-dd1e-48c4-a0ae-6b2dc61bd579",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "4c139766-5bc0-4fdf-801d-c1e1e24fe57e": {
+        "id": "4c139766-5bc0-4fdf-801d-c1e1e24fe57e",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "a5248311-bdce-4b74-bda6-dd9c86f7b14a": {
+        "id": "a5248311-bdce-4b74-bda6-dd9c86f7b14a",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "4f63f0ad-2f1f-4ed9-9125-bffad8c2e8b7": {
+        "id": "4f63f0ad-2f1f-4ed9-9125-bffad8c2e8b7",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "b5dd8915-ee65-457b-810d-69565ea30dfb": {
+        "id": "b5dd8915-ee65-457b-810d-69565ea30dfb",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "5245929b-af43-4523-8278-26e83d22567d": {
+        "id": "5245929b-af43-4523-8278-26e83d22567d",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "9468920e-10d6-4f15-897b-2cd1af7faeae": {
+        "id": "9468920e-10d6-4f15-897b-2cd1af7faeae",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "1ba05e3f-a34b-4790-8f27-fcc4a6d049b3": {
+        "id": "1ba05e3f-a34b-4790-8f27-fcc4a6d049b3",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "ff1eabb2-8f82-4ddf-b2e9-95a6121a0edd": {
+        "id": "ff1eabb2-8f82-4ddf-b2e9-95a6121a0edd",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "e9473ed1-c935-411d-a6a4-bf31786bf926": {
+        "id": "e9473ed1-c935-411d-a6a4-bf31786bf926",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "89207225-45a2-4b84-ba26-48d434f5b7b2": {
+        "id": "89207225-45a2-4b84-ba26-48d434f5b7b2",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "1b19aa52-bd5d-4b25-bdf1-b4408888b920": {
+        "id": "1b19aa52-bd5d-4b25-bdf1-b4408888b920",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "b378d544-f45a-4f5b-b92b-64bfb8d3c180": {
+        "id": "b378d544-f45a-4f5b-b92b-64bfb8d3c180",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "dc191aca-d382-4c33-b81f-c7f45470a229": {
+        "id": "dc191aca-d382-4c33-b81f-c7f45470a229",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "edeb3312-b522-4ffb-9c1e-0d0be18d1292": {
+        "id": "edeb3312-b522-4ffb-9c1e-0d0be18d1292",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "ac1249f7-e760-4495-9cfa-61e82e813f08": {
+        "id": "ac1249f7-e760-4495-9cfa-61e82e813f08",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "516a28b0-f215-4406-8d66-75fa0221824f": {
+        "id": "516a28b0-f215-4406-8d66-75fa0221824f",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "6b3f1f82-aaca-4555-8f16-bc676e45154e": {
+        "id": "6b3f1f82-aaca-4555-8f16-bc676e45154e",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "7c7d605f-aa4b-4f56-b190-017ee73759d9": {
+        "id": "7c7d605f-aa4b-4f56-b190-017ee73759d9",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "8c6f8420-c64c-41f1-89b9-e6cfee2e49f9": {
+        "id": "8c6f8420-c64c-41f1-89b9-e6cfee2e49f9",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "2b7c0dba-1cf1-4d8a-b5c3-0f1a98bacf1b": {
+        "id": "2b7c0dba-1cf1-4d8a-b5c3-0f1a98bacf1b",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "40241cbf-c05f-4541-9fa9-a5b0d43dc598": {
+        "id": "40241cbf-c05f-4541-9fa9-a5b0d43dc598",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "05fa2b39-7b63-4988-910a-0da363c285fb": {
+        "id": "05fa2b39-7b63-4988-910a-0da363c285fb",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "5a9a5a67-c6cf-408d-a58b-62c08f8646f5": {
+        "id": "5a9a5a67-c6cf-408d-a58b-62c08f8646f5",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "1e8375a3-a253-41fc-97ad-8967020ac603": {
+        "id": "1e8375a3-a253-41fc-97ad-8967020ac603",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "f5e097f5-9b3e-4f89-ae2a-2cc7455a497f": {
+        "id": "f5e097f5-9b3e-4f89-ae2a-2cc7455a497f",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "da2b459d-fbb6-4922-80c8-120158658142": {
+        "id": "da2b459d-fbb6-4922-80c8-120158658142",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "6d72ba6f-f0d7-4372-9b5d-6219a08172ef": {
+        "id": "6d72ba6f-f0d7-4372-9b5d-6219a08172ef",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "bf4ceb7e-0fef-4c80-a7fa-b01b1fbcf8ec": {
+        "id": "bf4ceb7e-0fef-4c80-a7fa-b01b1fbcf8ec",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "4832620d-f864-4518-b08e-822df76858a9": {
+        "id": "4832620d-f864-4518-b08e-822df76858a9",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "0201c4ef-0065-4a85-a905-3f0d862e6ae6": {
+        "id": "0201c4ef-0065-4a85-a905-3f0d862e6ae6",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "1900d925-aa8d-4b20-8e14-f0a94fc11b52": {
+        "id": "1900d925-aa8d-4b20-8e14-f0a94fc11b52",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "3395e4cd-595c-4b79-a693-9cee89bdb0b8": {
+        "id": "3395e4cd-595c-4b79-a693-9cee89bdb0b8",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "834744aa-458d-45e8-8b3a-7db4744de8c7": {
+        "id": "834744aa-458d-45e8-8b3a-7db4744de8c7",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "59f9915a-9d12-40c0-ad66-eb25220e4a05": {
+        "id": "59f9915a-9d12-40c0-ad66-eb25220e4a05",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "6981654b-614e-4642-927c-185d17cfab31": {
+        "id": "6981654b-614e-4642-927c-185d17cfab31",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "569879e4-cc7d-4517-a589-b3a91448df1a": {
+        "id": "569879e4-cc7d-4517-a589-b3a91448df1a",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "bf671c7b-2b12-4d3a-9724-87dc56178335": {
+        "id": "bf671c7b-2b12-4d3a-9724-87dc56178335",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "de3c7f3c-191d-4984-8b88-2f561d67bf21": {
+        "id": "de3c7f3c-191d-4984-8b88-2f561d67bf21",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "2fb612a6-cdf7-4f9b-9c2f-803ae4fe430d": {
+        "id": "2fb612a6-cdf7-4f9b-9c2f-803ae4fe430d",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "d4a9e915-2222-4d3e-b251-6566e7f5e5a7": {
+        "id": "d4a9e915-2222-4d3e-b251-6566e7f5e5a7",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "a1a23739-ebad-4be4-a220-b0bb425570a2": {
+        "id": "a1a23739-ebad-4be4-a220-b0bb425570a2",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "41060935-bf56-44c5-9e6f-595af6f5cea4": {
+        "id": "41060935-bf56-44c5-9e6f-595af6f5cea4",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "5f2fb109-0b76-47ed-bd9c-089fd8537a3a": {
+        "id": "5f2fb109-0b76-47ed-bd9c-089fd8537a3a",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "696f057a-1621-4c23-bae3-2c7a7604253a": {
+        "id": "696f057a-1621-4c23-bae3-2c7a7604253a",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "b9e95638-86d1-4e53-85c2-60515e68f17f": {
+        "id": "b9e95638-86d1-4e53-85c2-60515e68f17f",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "6b134ee1-ff1d-4f6a-981d-f34d70454ae6": {
+        "id": "6b134ee1-ff1d-4f6a-981d-f34d70454ae6",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "950d38a1-f0f4-47fc-bc13-b27373634978": {
+        "id": "950d38a1-f0f4-47fc-bc13-b27373634978",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "df84c6f1-cf23-45cf-a1eb-221478daae24": {
+        "id": "df84c6f1-cf23-45cf-a1eb-221478daae24",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "030907dd-d132-472f-8c6d-b10a5b0ca967": {
+        "id": "030907dd-d132-472f-8c6d-b10a5b0ca967",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "1f4630a8-3661-4e91-81a0-bd62729f1c26": {
+        "id": "1f4630a8-3661-4e91-81a0-bd62729f1c26",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "f9ab6159-3902-41ff-a358-a1471053b521": {
+        "id": "f9ab6159-3902-41ff-a358-a1471053b521",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "047d32bd-f26d-4149-97d0-52657b26e1ff": {
+        "id": "047d32bd-f26d-4149-97d0-52657b26e1ff",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "f348e817-9668-486f-8db9-0045aa632513": {
+        "id": "f348e817-9668-486f-8db9-0045aa632513",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "0aa170a0-023b-498a-aac3-6865b5957321": {
+        "id": "0aa170a0-023b-498a-aac3-6865b5957321",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "d43f55ff-50d3-46df-8f07-b332d0a06d48": {
+        "id": "d43f55ff-50d3-46df-8f07-b332d0a06d48",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "8423108b-54f9-49af-8c01-b785b34642a2": {
+        "id": "8423108b-54f9-49af-8c01-b785b34642a2",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "fb756379-5f44-431f-a672-b48729983379": {
+        "id": "fb756379-5f44-431f-a672-b48729983379",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "36b9cade-578d-4d04-ba1e-ebabc6e3f945": {
+        "id": "36b9cade-578d-4d04-ba1e-ebabc6e3f945",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "3696009a-282e-4df9-b985-1be7d982fdbf": {
+        "id": "3696009a-282e-4df9-b985-1be7d982fdbf",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "13fbb89e-63d6-42ad-98cd-99059c69f466": {
+        "id": "13fbb89e-63d6-42ad-98cd-99059c69f466",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "2125041e-f04d-41ec-99e9-71f4d37df4a5": {
+        "id": "2125041e-f04d-41ec-99e9-71f4d37df4a5",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "fac84f07-d435-430e-8e16-96d022f35310": {
+        "id": "fac84f07-d435-430e-8e16-96d022f35310",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "2c46d8ef-5916-48bf-b233-b3867641680b": {
+        "id": "2c46d8ef-5916-48bf-b233-b3867641680b",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "43c2d4dc-1672-4b33-aa32-d42f3537a4f2": {
+        "id": "43c2d4dc-1672-4b33-aa32-d42f3537a4f2",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "0f4343f5-7b91-4573-b206-c43c60ddd63a": {
+        "id": "0f4343f5-7b91-4573-b206-c43c60ddd63a",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "ad3b8918-c89d-49fe-bc32-802cdc10993f": {
+        "id": "ad3b8918-c89d-49fe-bc32-802cdc10993f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "7bcb1dd0-fbf8-4064-94ad-76e519e66843": {
+        "id": "7bcb1dd0-fbf8-4064-94ad-76e519e66843",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "f46036cf-8e9a-4764-b799-4ab74f5e0d05": {
+        "id": "f46036cf-8e9a-4764-b799-4ab74f5e0d05",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "74fa08ae-3604-429f-b366-2a37b48427b7": {
+        "id": "74fa08ae-3604-429f-b366-2a37b48427b7",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "43e2cf42-f09c-4800-b525-3338748a9fe8": {
+        "id": "43e2cf42-f09c-4800-b525-3338748a9fe8",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "d7d1494b-8e26-44dc-b5b7-86f04a5b01a7": {
+        "id": "d7d1494b-8e26-44dc-b5b7-86f04a5b01a7",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "2e206100-43ac-4547-9213-57602fa0b450": {
+        "id": "2e206100-43ac-4547-9213-57602fa0b450",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "8813e87b-090a-4e97-992a-d5c185fcd9ef": {
+        "id": "8813e87b-090a-4e97-992a-d5c185fcd9ef",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "7cb8b9ea-c243-4994-9cea-7dc91b9a134a": {
+        "id": "7cb8b9ea-c243-4994-9cea-7dc91b9a134a",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "e98cf1c9-4e2b-4bf2-a064-cb138949fc03": {
+        "id": "e98cf1c9-4e2b-4bf2-a064-cb138949fc03",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "e9cfc92b-90c3-4a27-a893-f404597bfe40": {
+        "id": "e9cfc92b-90c3-4a27-a893-f404597bfe40",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "7eb725bb-e6db-4d52-af87-618dba71ea3c": {
+        "id": "7eb725bb-e6db-4d52-af87-618dba71ea3c",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "044a1ab1-2126-40d7-819f-cdf673bac5cf": {
+        "id": "044a1ab1-2126-40d7-819f-cdf673bac5cf",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "ec0a05a5-e7ee-4338-803c-eda22836fe67": {
+        "id": "ec0a05a5-e7ee-4338-803c-eda22836fe67",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "0ffb2953-9553-4aad-8161-41a7356631cc": {
+        "id": "0ffb2953-9553-4aad-8161-41a7356631cc",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "c0e0d97b-3587-4cf9-9d32-28e61fb8e5a6": {
+        "id": "c0e0d97b-3587-4cf9-9d32-28e61fb8e5a6",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "e1af288d-3bf4-4e9d-907e-ede0ef7466ca": {
+        "id": "e1af288d-3bf4-4e9d-907e-ede0ef7466ca",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "9dff6b52-65f8-4f54-ad70-36aacc12e052": {
+        "id": "9dff6b52-65f8-4f54-ad70-36aacc12e052",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "50e7c87a-46ce-439c-b7fa-ba6a32e1880f": {
+        "id": "50e7c87a-46ce-439c-b7fa-ba6a32e1880f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "5e83fb73-3cd5-4f0d-b80d-6d7a27f23265": {
+        "id": "5e83fb73-3cd5-4f0d-b80d-6d7a27f23265",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "77740e41-ffc0-4e39-a182-fb8f14b5ab52": {
+        "id": "77740e41-ffc0-4e39-a182-fb8f14b5ab52",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "b319ab2f-95e8-4735-9f81-70e57472e801": {
+        "id": "b319ab2f-95e8-4735-9f81-70e57472e801",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "cb32b084-b7a8-4f46-9d6a-5112c21bb5fd": {
+        "id": "cb32b084-b7a8-4f46-9d6a-5112c21bb5fd",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "61a8aebe-daa4-4661-b2e6-ddf1cc074681": {
+        "id": "61a8aebe-daa4-4661-b2e6-ddf1cc074681",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "c9b3fb82-94b8-41e1-8016-6b14d4423508": {
+        "id": "c9b3fb82-94b8-41e1-8016-6b14d4423508",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "b5225281-d339-4b15-89e5-f27725f81ab1": {
+        "id": "b5225281-d339-4b15-89e5-f27725f81ab1",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "127cc9c2-aa1b-4564-944d-96b9a5c0883e": {
+        "id": "127cc9c2-aa1b-4564-944d-96b9a5c0883e",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "a55802e0-64e9-46cd-9412-cd807d8dfe3e": {
+        "id": "a55802e0-64e9-46cd-9412-cd807d8dfe3e",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "69308bdf-a324-4b10-8bab-f353095c8b59": {
+        "id": "69308bdf-a324-4b10-8bab-f353095c8b59",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "42862899-3dc1-4630-9dd6-dd155dbc9b21": {
+        "id": "42862899-3dc1-4630-9dd6-dd155dbc9b21",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "a7b4db64-0d88-4ade-b3f5-678432595bd0": {
+        "id": "a7b4db64-0d88-4ade-b3f5-678432595bd0",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "0e8e0281-cc94-43de-a3c3-e3c88880ddb2": {
+        "id": "0e8e0281-cc94-43de-a3c3-e3c88880ddb2",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "88364e65-01d9-45b8-973e-6e2260053ff5": {
+        "id": "88364e65-01d9-45b8-973e-6e2260053ff5",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "c9c81f9e-1239-4b03-93a0-b0c9c7cba7c5": {
+        "id": "c9c81f9e-1239-4b03-93a0-b0c9c7cba7c5",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "cf2e9725-cfd6-4582-a3a8-7e55c2e1230d": {
+        "id": "cf2e9725-cfd6-4582-a3a8-7e55c2e1230d",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "23ecc8c6-b15e-4fb7-85a2-35506dd79c77": {
+        "id": "23ecc8c6-b15e-4fb7-85a2-35506dd79c77",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "f7f86c71-9929-412b-aaad-3a2c78cca8d6": {
+        "id": "f7f86c71-9929-412b-aaad-3a2c78cca8d6",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "4cdf0a97-3082-47c1-8351-6453520659a3": {
+        "id": "4cdf0a97-3082-47c1-8351-6453520659a3",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "464a9430-3d4e-436d-aca8-b1b1e58486cb": {
+        "id": "464a9430-3d4e-436d-aca8-b1b1e58486cb",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "28711279-65cf-40f3-83ea-94f5fb942c8f": {
+        "id": "28711279-65cf-40f3-83ea-94f5fb942c8f",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "931b24ea-8f66-4caa-92fc-f02424dfce28": {
+        "id": "931b24ea-8f66-4caa-92fc-f02424dfce28",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "b52a2f8b-2fce-4751-a781-e99f2bc468f0": {
+        "id": "b52a2f8b-2fce-4751-a781-e99f2bc468f0",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "e7896126-60a5-4925-9db6-6b2983ebdbd3": {
+        "id": "e7896126-60a5-4925-9db6-6b2983ebdbd3",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "94fa4d65-609c-4dc7-88d9-72f499a20b8b": {
+        "id": "94fa4d65-609c-4dc7-88d9-72f499a20b8b",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "3445852a-27c8-4450-b35d-530c0d82f941": {
+        "id": "3445852a-27c8-4450-b35d-530c0d82f941",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "8106df1f-5bd4-4e92-a4f0-83e8c6793233": {
+        "id": "8106df1f-5bd4-4e92-a4f0-83e8c6793233",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "adb5af1a-d248-4efb-bb1a-cc3f4ab73f28": {
+        "id": "adb5af1a-d248-4efb-bb1a-cc3f4ab73f28",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "4acc8853-44a2-4ba4-9454-a2b93a6ca4d8": {
+        "id": "4acc8853-44a2-4ba4-9454-a2b93a6ca4d8",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "4969e746-7794-4515-865d-c1d2e7725d08": {
+        "id": "4969e746-7794-4515-865d-c1d2e7725d08",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "bb4abc05-ced8-4a2a-8a29-160f66af6426": {
+        "id": "bb4abc05-ced8-4a2a-8a29-160f66af6426",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "0944e35d-05bb-4bd5-8ee6-7eaf3966777b": {
+        "id": "0944e35d-05bb-4bd5-8ee6-7eaf3966777b",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "3beaea13-879f-477b-bec7-0d182e1f81de": {
+        "id": "3beaea13-879f-477b-bec7-0d182e1f81de",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "3c37ef68-4913-4db8-bc1e-04ffed46d880": {
+        "id": "3c37ef68-4913-4db8-bc1e-04ffed46d880",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "7bddd269-5359-451f-8d96-c7b37afe707d": {
+        "id": "7bddd269-5359-451f-8d96-c7b37afe707d",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "afa7d38d-010d-46fd-9f04-8ecbb54694b8": {
+        "id": "afa7d38d-010d-46fd-9f04-8ecbb54694b8",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "1c397f7c-c97a-4ab5-8145-49cc54aef934": {
+        "id": "1c397f7c-c97a-4ab5-8145-49cc54aef934",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "0ab20891-1dc9-499b-acb7-5eba74c58abd": {
+        "id": "0ab20891-1dc9-499b-acb7-5eba74c58abd",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "bf6289c2-fbd1-47c5-8f60-115c88720aba": {
+        "id": "bf6289c2-fbd1-47c5-8f60-115c88720aba",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "9e472572-c375-4f61-8a3a-3af8e567daba": {
+        "id": "9e472572-c375-4f61-8a3a-3af8e567daba",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "f9de6967-999b-4c5d-a4bb-0cf638ac9ea6": {
+        "id": "f9de6967-999b-4c5d-a4bb-0cf638ac9ea6",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "5610c2eb-3c1e-45c8-af90-3cd85047ecba": {
+        "id": "5610c2eb-3c1e-45c8-af90-3cd85047ecba",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "285a206c-3056-49c3-9b6c-e98c8841b171": {
+        "id": "285a206c-3056-49c3-9b6c-e98c8841b171",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "afd596dc-2b02-49aa-9175-9ac24afc32d5": {
+        "id": "afd596dc-2b02-49aa-9175-9ac24afc32d5",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "79eaa757-5ac0-4b3e-9af1-82706fff86ff": {
+        "id": "79eaa757-5ac0-4b3e-9af1-82706fff86ff",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "9e39823f-980c-4a30-9937-089cc469f1ef": {
+        "id": "9e39823f-980c-4a30-9937-089cc469f1ef",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "b1e03461-8df5-40f2-b38f-f6b02eb4bf87": {
+        "id": "b1e03461-8df5-40f2-b38f-f6b02eb4bf87",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "5e6d1a90-4aca-4689-a295-b795153a94e3": {
+        "id": "5e6d1a90-4aca-4689-a295-b795153a94e3",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "910ec60a-4f56-4b0d-835d-b8e164dd974b": {
+        "id": "910ec60a-4f56-4b0d-835d-b8e164dd974b",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "3cc74b28-2470-4a07-a1ac-3ffe3c8b217a": {
+        "id": "3cc74b28-2470-4a07-a1ac-3ffe3c8b217a",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "8ae5baf1-91e1-482e-afc0-946cc6f93a4f": {
+        "id": "8ae5baf1-91e1-482e-afc0-946cc6f93a4f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "91fa183a-400d-4c2d-bfed-816a36e29505": {
+        "id": "91fa183a-400d-4c2d-bfed-816a36e29505",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "9003eafe-cf16-4db0-aa24-0c378884360d": {
+        "id": "9003eafe-cf16-4db0-aa24-0c378884360d",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "98563490-8255-4883-9352-19955cf1e1f7": {
+        "id": "98563490-8255-4883-9352-19955cf1e1f7",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "b23d482a-db76-492b-8c2a-8abf9e0a230d": {
+        "id": "b23d482a-db76-492b-8c2a-8abf9e0a230d",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "4140eb6c-16cd-4b04-bf22-9dfe3b2ada89": {
+        "id": "4140eb6c-16cd-4b04-bf22-9dfe3b2ada89",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "7cdbc333-232e-4f4b-a349-d667d06edfb1": {
+        "id": "7cdbc333-232e-4f4b-a349-d667d06edfb1",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "6ac7b1f1-5125-459f-9e5b-a8c856901810": {
+        "id": "6ac7b1f1-5125-459f-9e5b-a8c856901810",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "5afe7abc-398c-4d11-940a-9573145e108a": {
+        "id": "5afe7abc-398c-4d11-940a-9573145e108a",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "739bdf8c-0b14-47eb-9b6a-3700abca0693": {
+        "id": "739bdf8c-0b14-47eb-9b6a-3700abca0693",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "2a210738-6528-42d7-b802-a8162ecd66e6": {
+        "id": "2a210738-6528-42d7-b802-a8162ecd66e6",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "61d2c32f-ac15-4cea-88ca-545f16fac1f4": {
+        "id": "61d2c32f-ac15-4cea-88ca-545f16fac1f4",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "e24155b3-9a6c-4ec9-92c7-1d042c4d0266": {
+        "id": "e24155b3-9a6c-4ec9-92c7-1d042c4d0266",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "1b9f00b6-717e-44d7-9f7d-d1929e900dd3": {
+        "id": "1b9f00b6-717e-44d7-9f7d-d1929e900dd3",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "347069c2-0a3c-4280-a7cc-2dd2842c669a": {
+        "id": "347069c2-0a3c-4280-a7cc-2dd2842c669a",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "65d275a9-56f9-4bf4-8789-64df93893a4c": {
+        "id": "65d275a9-56f9-4bf4-8789-64df93893a4c",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "5d20dcba-5f12-450c-8039-da2cba2467db": {
+        "id": "5d20dcba-5f12-450c-8039-da2cba2467db",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "61edb230-f1aa-4c07-a206-12061d985d6c": {
+        "id": "61edb230-f1aa-4c07-a206-12061d985d6c",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "74ef8cec-295a-4758-a233-f8807524e5b0": {
+        "id": "74ef8cec-295a-4758-a233-f8807524e5b0",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "efb2ce0d-6c16-4040-b493-509ab1ef50a8": {
+        "id": "efb2ce0d-6c16-4040-b493-509ab1ef50a8",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "678f9cf4-e6ec-445a-807a-1db15c57f4ad": {
+        "id": "678f9cf4-e6ec-445a-807a-1db15c57f4ad",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "a2bf0a87-f2a1-4c25-994f-b16f5380802f": {
+        "id": "a2bf0a87-f2a1-4c25-994f-b16f5380802f",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "062474eb-b785-4313-b736-9686edd1af24": {
+        "id": "062474eb-b785-4313-b736-9686edd1af24",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "5bd7ad71-3339-4fd6-8a65-e173f87a8e12": {
+        "id": "5bd7ad71-3339-4fd6-8a65-e173f87a8e12",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "47fccf1d-dea3-48ff-a651-ae419faf4662": {
+        "id": "47fccf1d-dea3-48ff-a651-ae419faf4662",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "650f128b-c4a0-4717-a60b-d6723578d8e4": {
+        "id": "650f128b-c4a0-4717-a60b-d6723578d8e4",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "4a5b4b98-4f71-40f6-89f4-c4c29d0e2248": {
+        "id": "4a5b4b98-4f71-40f6-89f4-c4c29d0e2248",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "92c2418d-1119-4e9c-907d-3744e41755c7": {
+        "id": "92c2418d-1119-4e9c-907d-3744e41755c7",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "083d0b02-fa60-4d28-bf07-777827702b29": {
+        "id": "083d0b02-fa60-4d28-bf07-777827702b29",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "209e1dae-c2f5-48b1-bd5a-0bd0603a3039": {
+        "id": "209e1dae-c2f5-48b1-bd5a-0bd0603a3039",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "a8104c0d-96ae-4b2b-8e36-448f10ca04e2": {
+        "id": "a8104c0d-96ae-4b2b-8e36-448f10ca04e2",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "3fcae264-2c06-4c70-9873-9b8477f702c4": {
+        "id": "3fcae264-2c06-4c70-9873-9b8477f702c4",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "c9ca86e6-1155-4451-b43e-39d7d2b6e260": {
+        "id": "c9ca86e6-1155-4451-b43e-39d7d2b6e260",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "7ad15f6f-1b06-4455-85c6-9eeca759c7e6": {
+        "id": "7ad15f6f-1b06-4455-85c6-9eeca759c7e6",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "69047f72-175c-4127-90bf-571ea857fc5a": {
+        "id": "69047f72-175c-4127-90bf-571ea857fc5a",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "ff7915e5-22d0-452b-9583-7322d40431ac": {
+        "id": "ff7915e5-22d0-452b-9583-7322d40431ac",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "628fd9e6-de97-47f8-833f-77a5d5281f44": {
+        "id": "628fd9e6-de97-47f8-833f-77a5d5281f44",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "227cf855-1314-414d-acd5-4da542a39094": {
+        "id": "227cf855-1314-414d-acd5-4da542a39094",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "2ddecfc7-3620-4bec-bd83-fec640e94418": {
+        "id": "2ddecfc7-3620-4bec-bd83-fec640e94418",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "712d4b6d-44c7-4a9f-a22d-4b335e134c3a": {
+        "id": "712d4b6d-44c7-4a9f-a22d-4b335e134c3a",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "75f7fc21-832f-4217-8bfe-0bfb3049161b": {
+        "id": "75f7fc21-832f-4217-8bfe-0bfb3049161b",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "73a32d17-f3ed-46cf-a10e-16f446876a2b": {
+        "id": "73a32d17-f3ed-46cf-a10e-16f446876a2b",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "b5f23a44-332e-4a0c-b7ab-83520cae053f": {
+        "id": "b5f23a44-332e-4a0c-b7ab-83520cae053f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "3ebddb67-c0cf-45a6-84d9-6b0c40364743": {
+        "id": "3ebddb67-c0cf-45a6-84d9-6b0c40364743",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "0e643e76-ac9e-4794-af75-0a9c9f8fc244": {
+        "id": "0e643e76-ac9e-4794-af75-0a9c9f8fc244",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "5e3a1187-cda3-43f3-81be-bd6723cb8213": {
+        "id": "5e3a1187-cda3-43f3-81be-bd6723cb8213",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "3733351b-c6e7-4aca-8bd9-2ad800daa206": {
+        "id": "3733351b-c6e7-4aca-8bd9-2ad800daa206",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "aebac4dc-7e87-4abb-ad4a-1dc9315d10b4": {
+        "id": "aebac4dc-7e87-4abb-ad4a-1dc9315d10b4",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "ef52ff93-3788-49bb-8c78-e7da9b68a03c": {
+        "id": "ef52ff93-3788-49bb-8c78-e7da9b68a03c",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "f95a6cda-a3df-40a7-b2c1-a48c23960010": {
+        "id": "f95a6cda-a3df-40a7-b2c1-a48c23960010",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "536b4e27-1417-48f6-aa0b-8057f5961995": {
+        "id": "536b4e27-1417-48f6-aa0b-8057f5961995",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "1ad2f02a-03d6-4334-89e6-1c9e04ee0181": {
+        "id": "1ad2f02a-03d6-4334-89e6-1c9e04ee0181",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "e631212a-eff1-4a84-91a3-fd0f7d5efefc": {
+        "id": "e631212a-eff1-4a84-91a3-fd0f7d5efefc",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "2dccf144-d879-4590-8fb2-e24456043d27": {
+        "id": "2dccf144-d879-4590-8fb2-e24456043d27",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "e4c22605-06a4-4212-babd-ef7346e425a3": {
+        "id": "e4c22605-06a4-4212-babd-ef7346e425a3",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "8ab17c46-4baf-461e-9187-dc1bc71e9035": {
+        "id": "8ab17c46-4baf-461e-9187-dc1bc71e9035",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "5b24542c-b162-4a92-bcfb-6c09445dfb3b": {
+        "id": "5b24542c-b162-4a92-bcfb-6c09445dfb3b",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "0bf1b2da-eb16-4030-adff-d3901c3aded4": {
+        "id": "0bf1b2da-eb16-4030-adff-d3901c3aded4",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "c3f7cdfa-656f-4bc5-9d65-d63e2141be69": {
+        "id": "c3f7cdfa-656f-4bc5-9d65-d63e2141be69",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "46b52e99-002d-4af4-8c5a-3aafcb16329a": {
+        "id": "46b52e99-002d-4af4-8c5a-3aafcb16329a",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "4c1395c8-7930-467f-8bcd-72d9571779a3": {
+        "id": "4c1395c8-7930-467f-8bcd-72d9571779a3",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "59e4c448-35de-48a6-9b59-4385a85ea840": {
+        "id": "59e4c448-35de-48a6-9b59-4385a85ea840",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "9e852b61-b62d-4822-91cf-2edd2b933426": {
+        "id": "9e852b61-b62d-4822-91cf-2edd2b933426",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "94d827d3-e658-461c-8b15-fd8ee3f46305": {
+        "id": "94d827d3-e658-461c-8b15-fd8ee3f46305",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "807c22dd-ade3-4369-a5db-38960f2abf33": {
+        "id": "807c22dd-ade3-4369-a5db-38960f2abf33",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "116579c9-7c6d-4af4-8e93-b73333948f28": {
+        "id": "116579c9-7c6d-4af4-8e93-b73333948f28",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "adea2383-b655-4251-bdaf-d5119a69b3c6": {
+        "id": "adea2383-b655-4251-bdaf-d5119a69b3c6",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "2ca22c57-69dc-4f26-944d-3886f5d13382": {
+        "id": "2ca22c57-69dc-4f26-944d-3886f5d13382",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "38c80cae-1c65-4f1e-8125-88bdfed0f1a2": {
+        "id": "38c80cae-1c65-4f1e-8125-88bdfed0f1a2",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "b556c87b-454f-4157-85a2-69ecfb1b8997": {
+        "id": "b556c87b-454f-4157-85a2-69ecfb1b8997",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "e733a329-8c15-4996-bd0a-6af856c20f05": {
+        "id": "e733a329-8c15-4996-bd0a-6af856c20f05",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "b9c0b5e0-89c8-40ee-ac64-d98946d7fc55": {
+        "id": "b9c0b5e0-89c8-40ee-ac64-d98946d7fc55",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "b679a7f8-6db3-4949-9649-a89d2acddd12": {
+        "id": "b679a7f8-6db3-4949-9649-a89d2acddd12",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "af240908-4198-41ed-86c6-f2b1d22c9552": {
+        "id": "af240908-4198-41ed-86c6-f2b1d22c9552",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "3b10da7f-6e21-4775-831a-0cb6693e5139": {
+        "id": "3b10da7f-6e21-4775-831a-0cb6693e5139",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "6f2373c1-1a5b-4632-8db7-8f4a87eacde5": {
+        "id": "6f2373c1-1a5b-4632-8db7-8f4a87eacde5",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "057e852d-3357-4616-9a3e-f99d86002a69": {
+        "id": "057e852d-3357-4616-9a3e-f99d86002a69",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "502c6013-4ad0-4f63-93ca-15433e02922a": {
+        "id": "502c6013-4ad0-4f63-93ca-15433e02922a",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "ae839be0-072b-4cab-9239-1b5ad4029dfa": {
+        "id": "ae839be0-072b-4cab-9239-1b5ad4029dfa",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "20ff981f-24fe-4fac-8b3d-83e0bc38e7dd": {
+        "id": "20ff981f-24fe-4fac-8b3d-83e0bc38e7dd",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "42f72203-d171-420f-8759-80c6b4de539b": {
+        "id": "42f72203-d171-420f-8759-80c6b4de539b",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "1d986ead-18f7-4151-8154-417db64e69ff": {
+        "id": "1d986ead-18f7-4151-8154-417db64e69ff",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "85284554-8ab5-413a-a717-2cbbbb1725dc": {
+        "id": "85284554-8ab5-413a-a717-2cbbbb1725dc",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "869f761c-7b89-4892-babe-dbc4fcc6c018": {
+        "id": "869f761c-7b89-4892-babe-dbc4fcc6c018",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "1fbe96ac-4d23-447e-ba33-7bf4daeec6df": {
+        "id": "1fbe96ac-4d23-447e-ba33-7bf4daeec6df",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "ad86e42a-35e6-4315-a1fe-2bc5ce66dfae": {
+        "id": "ad86e42a-35e6-4315-a1fe-2bc5ce66dfae",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "e1a5da95-eb52-4f1f-8aac-0093ae685e8f": {
+        "id": "e1a5da95-eb52-4f1f-8aac-0093ae685e8f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "6c919f38-70bf-4347-bf3c-a628d9ee958f": {
+        "id": "6c919f38-70bf-4347-bf3c-a628d9ee958f",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "6d34a9d7-d15b-4567-8b26-f52952ab5104": {
+        "id": "6d34a9d7-d15b-4567-8b26-f52952ab5104",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "e27d2598-8075-47ff-a208-837692116822": {
+        "id": "e27d2598-8075-47ff-a208-837692116822",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "bb606008-ee4c-4bfd-8152-f4de1bf0b43d": {
+        "id": "bb606008-ee4c-4bfd-8152-f4de1bf0b43d",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "304758f6-9565-40dd-a91a-92d4637eb915": {
+        "id": "304758f6-9565-40dd-a91a-92d4637eb915",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "2fa89ef6-1db8-48a8-81d2-24e45b31e9ce": {
+        "id": "2fa89ef6-1db8-48a8-81d2-24e45b31e9ce",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "f9c097ae-41ec-4d01-ab08-268a59c475ab": {
+        "id": "f9c097ae-41ec-4d01-ab08-268a59c475ab",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "e56704a3-c1f3-4a6a-b7e0-fa916cb9913c": {
+        "id": "e56704a3-c1f3-4a6a-b7e0-fa916cb9913c",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "57bd2593-4b87-49ab-aca8-ca0d26272ed2": {
+        "id": "57bd2593-4b87-49ab-aca8-ca0d26272ed2",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "9323ef6e-bb35-4063-95d8-5c0b50bd3717": {
+        "id": "9323ef6e-bb35-4063-95d8-5c0b50bd3717",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "2000d7cf-3323-4ff5-ac8d-9907ede55300": {
+        "id": "2000d7cf-3323-4ff5-ac8d-9907ede55300",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "6175c33d-9098-4b5d-a11f-be908a53ffe5": {
+        "id": "6175c33d-9098-4b5d-a11f-be908a53ffe5",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "2bbdedf4-19a1-4b97-a1e9-d7653b1a66ce": {
+        "id": "2bbdedf4-19a1-4b97-a1e9-d7653b1a66ce",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "f29f6332-1721-468e-a59a-17375ce22504": {
+        "id": "f29f6332-1721-468e-a59a-17375ce22504",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "43aca649-eb36-4240-9f5c-3a2901c1e1db": {
+        "id": "43aca649-eb36-4240-9f5c-3a2901c1e1db",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "fbd596c1-dd6d-43d1-9145-aa8ba456915b": {
+        "id": "fbd596c1-dd6d-43d1-9145-aa8ba456915b",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "0df48eb6-12bb-4626-a679-d802cc3b9961": {
+        "id": "0df48eb6-12bb-4626-a679-d802cc3b9961",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "64e6c17a-1d83-493d-bdae-be7f4a2e8fd3": {
+        "id": "64e6c17a-1d83-493d-bdae-be7f4a2e8fd3",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "d39b93c9-0b0c-493d-a986-4b1c07186a54": {
+        "id": "d39b93c9-0b0c-493d-a986-4b1c07186a54",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "94dab423-8270-4a82-86db-a0a9eab54286": {
+        "id": "94dab423-8270-4a82-86db-a0a9eab54286",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "5750a93c-a38a-4fbe-b997-3dac8e05c788": {
+        "id": "5750a93c-a38a-4fbe-b997-3dac8e05c788",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "60619569-77c6-44ed-86b0-c8d47a27e5e6": {
+        "id": "60619569-77c6-44ed-86b0-c8d47a27e5e6",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "4de396a2-cbe9-4d47-81c4-61cd7bcc149e": {
+        "id": "4de396a2-cbe9-4d47-81c4-61cd7bcc149e",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "67c592c9-56c7-4777-9dbb-01259dbb7d71": {
+        "id": "67c592c9-56c7-4777-9dbb-01259dbb7d71",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "494bd7f5-a379-45e6-8e1d-63f1868497fc": {
+        "id": "494bd7f5-a379-45e6-8e1d-63f1868497fc",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "05f47d54-7c63-46c8-ad00-ba15f24604d1": {
+        "id": "05f47d54-7c63-46c8-ad00-ba15f24604d1",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "94fd215b-c41c-471c-94b1-92e19304e378": {
+        "id": "94fd215b-c41c-471c-94b1-92e19304e378",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "049125cc-5831-4024-9aeb-b45c5b2ede26": {
+        "id": "049125cc-5831-4024-9aeb-b45c5b2ede26",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "0aee5cf7-a651-473d-b30a-885618cf369f": {
+        "id": "0aee5cf7-a651-473d-b30a-885618cf369f",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "15aa565e-e022-43f6-bc9f-e6b4349541a0": {
+        "id": "15aa565e-e022-43f6-bc9f-e6b4349541a0",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "9cd1afaa-5497-4dd6-ab81-995246e11072": {
+        "id": "9cd1afaa-5497-4dd6-ab81-995246e11072",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "0d14113c-c8e7-4640-8d13-b06c60b1880c": {
+        "id": "0d14113c-c8e7-4640-8d13-b06c60b1880c",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "11e98903-7da7-4279-b40e-92e4ce340a3e": {
+        "id": "11e98903-7da7-4279-b40e-92e4ce340a3e",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "7e25203e-e4e3-4ab5-bfb9-5c87c953f988": {
+        "id": "7e25203e-e4e3-4ab5-bfb9-5c87c953f988",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "ea5c3042-6eb1-486f-bc1e-cecf4fd93e04": {
+        "id": "ea5c3042-6eb1-486f-bc1e-cecf4fd93e04",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "56ba5f42-7673-46a8-b8c7-1e4dd3ac2687": {
+        "id": "56ba5f42-7673-46a8-b8c7-1e4dd3ac2687",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "60185591-1229-49d0-acca-d9e48f6eb21e": {
+        "id": "60185591-1229-49d0-acca-d9e48f6eb21e",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "e05f495b-c20b-473d-a645-7582f8254564": {
+        "id": "e05f495b-c20b-473d-a645-7582f8254564",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "cfa2be6a-653e-42e6-a42c-7b41c4664752": {
+        "id": "cfa2be6a-653e-42e6-a42c-7b41c4664752",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "89c15d9d-6717-4c83-b47b-9ed45cff0d05": {
+        "id": "89c15d9d-6717-4c83-b47b-9ed45cff0d05",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "56e8aa2e-dbaa-49af-8514-cc8344dccc25": {
+        "id": "56e8aa2e-dbaa-49af-8514-cc8344dccc25",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "f0d3730d-76a8-49b0-aa9e-93c921c3f3bc": {
+        "id": "f0d3730d-76a8-49b0-aa9e-93c921c3f3bc",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "e7c3c4b9-2fcf-46f0-981a-927cf76b2d51": {
+        "id": "e7c3c4b9-2fcf-46f0-981a-927cf76b2d51",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "b4b9e99f-61c8-47ab-ad4d-939feda8bd29": {
+        "id": "b4b9e99f-61c8-47ab-ad4d-939feda8bd29",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "e2d6182c-c4d5-46ca-9c2d-c04ad6a39dd5": {
+        "id": "e2d6182c-c4d5-46ca-9c2d-c04ad6a39dd5",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "c218974a-136f-4e0b-b59e-8ff13d7d7dba": {
+        "id": "c218974a-136f-4e0b-b59e-8ff13d7d7dba",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "17a20b0b-3894-4aa1-9b92-2439404d1a94": {
+        "id": "17a20b0b-3894-4aa1-9b92-2439404d1a94",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "e0f2cfba-0a23-422f-a961-d7700eb4d6ef": {
+        "id": "e0f2cfba-0a23-422f-a961-d7700eb4d6ef",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "2ebd20e0-7c2e-4e8d-916c-6a5e19305896": {
+        "id": "2ebd20e0-7c2e-4e8d-916c-6a5e19305896",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "2d10f53b-712e-4ee4-bbbc-fe6c960faf35": {
+        "id": "2d10f53b-712e-4ee4-bbbc-fe6c960faf35",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "5bdfeafd-684c-4ef0-8158-cbb6660ecece": {
+        "id": "5bdfeafd-684c-4ef0-8158-cbb6660ecece",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "7a0eef4b-677c-40e9-a7f8-7859f8985465": {
+        "id": "7a0eef4b-677c-40e9-a7f8-7859f8985465",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "89b6f1bc-f044-41b5-9587-d38a8503827c": {
+        "id": "89b6f1bc-f044-41b5-9587-d38a8503827c",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "94b59986-6c9f-4c0d-b982-7a8b2de4693f": {
+        "id": "94b59986-6c9f-4c0d-b982-7a8b2de4693f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "5c7cb50c-c483-4944-8b62-9ea8f2d314ce": {
+        "id": "5c7cb50c-c483-4944-8b62-9ea8f2d314ce",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "7b8541d2-ae30-462c-ae4c-3710e7e43aee": {
+        "id": "7b8541d2-ae30-462c-ae4c-3710e7e43aee",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "39e6200c-7903-4368-9aba-a075f7e725f3": {
+        "id": "39e6200c-7903-4368-9aba-a075f7e725f3",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "285b2550-04d2-4e2e-81f6-07d037450001": {
+        "id": "285b2550-04d2-4e2e-81f6-07d037450001",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "9b01f671-cf57-4fb5-9cf6-3c995ced75ca": {
+        "id": "9b01f671-cf57-4fb5-9cf6-3c995ced75ca",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "f225576f-4a2a-432b-a777-523ff6088d9b": {
+        "id": "f225576f-4a2a-432b-a777-523ff6088d9b",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "fb697e25-006d-4d7a-a800-a9aeb891d1bb": {
+        "id": "fb697e25-006d-4d7a-a800-a9aeb891d1bb",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "2ba9008b-c88b-4f29-820e-d2883b80ec4e": {
+        "id": "2ba9008b-c88b-4f29-820e-d2883b80ec4e",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "05c32aaa-e1cb-429e-95a6-61e5c0fd75ba": {
+        "id": "05c32aaa-e1cb-429e-95a6-61e5c0fd75ba",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "2ab35a7c-8e7b-4564-aca1-c52841d47052": {
+        "id": "2ab35a7c-8e7b-4564-aca1-c52841d47052",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "0d9e587e-e721-4bd2-b0e5-61aa2c57eeaf": {
+        "id": "0d9e587e-e721-4bd2-b0e5-61aa2c57eeaf",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "55abbe34-cacf-40a8-8446-149fcd146f88": {
+        "id": "55abbe34-cacf-40a8-8446-149fcd146f88",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "48bee3b9-bb4b-49a0-b1b6-19b15ab0b601": {
+        "id": "48bee3b9-bb4b-49a0-b1b6-19b15ab0b601",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "8af775d2-f9be-4e30-b8d9-ebcddc69fa91": {
+        "id": "8af775d2-f9be-4e30-b8d9-ebcddc69fa91",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "d33a6218-c19a-446e-bc57-ad380d5e5a5b": {
+        "id": "d33a6218-c19a-446e-bc57-ad380d5e5a5b",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "d90504a7-ec80-4dc3-b272-e20c2dd31a8d": {
+        "id": "d90504a7-ec80-4dc3-b272-e20c2dd31a8d",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "7e28ca26-6dec-4e70-a60a-1db401bef8d1": {
+        "id": "7e28ca26-6dec-4e70-a60a-1db401bef8d1",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "df4f02b9-1f26-4dbb-8b84-f8294a87f368": {
+        "id": "df4f02b9-1f26-4dbb-8b84-f8294a87f368",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "ec99ec69-80ae-4c6b-8840-7985ff5571f4": {
+        "id": "ec99ec69-80ae-4c6b-8840-7985ff5571f4",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "e1ee9d07-f171-48f3-b5fd-7cd3d02876e1": {
+        "id": "e1ee9d07-f171-48f3-b5fd-7cd3d02876e1",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "d2920f89-461e-4375-b783-fd8ea1a6139a": {
+        "id": "d2920f89-461e-4375-b783-fd8ea1a6139a",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "18d5c397-c7d8-4bd7-bca7-8a2b0261ffaa": {
+        "id": "18d5c397-c7d8-4bd7-bca7-8a2b0261ffaa",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "6902b2ff-0f35-4944-9391-04518cff4388": {
+        "id": "6902b2ff-0f35-4944-9391-04518cff4388",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "a1e98324-0764-4409-9988-3ded619aa8cf": {
+        "id": "a1e98324-0764-4409-9988-3ded619aa8cf",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "01529881-a4c8-433d-bb53-8f1ca65f4820": {
+        "id": "01529881-a4c8-433d-bb53-8f1ca65f4820",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "295a7419-8792-45c8-a51a-d4ec2a0d8300": {
+        "id": "295a7419-8792-45c8-a51a-d4ec2a0d8300",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "d8f95b30-48d0-4c2b-9660-4b264d4bc661": {
+        "id": "d8f95b30-48d0-4c2b-9660-4b264d4bc661",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "78f335b3-937d-4e40-9613-711e6a888489": {
+        "id": "78f335b3-937d-4e40-9613-711e6a888489",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "5033fc12-7563-43ec-80dc-9c77541d3e56": {
+        "id": "5033fc12-7563-43ec-80dc-9c77541d3e56",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "79eb4171-5450-4532-b826-c8302558833f": {
+        "id": "79eb4171-5450-4532-b826-c8302558833f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "d1f46937-4533-4ba3-958c-4f6efa53b0f5": {
+        "id": "d1f46937-4533-4ba3-958c-4f6efa53b0f5",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "b5b347c9-caca-481f-8394-78e160664cf6": {
+        "id": "b5b347c9-caca-481f-8394-78e160664cf6",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "e47dff33-b073-44e7-b24f-3e473ea88314": {
+        "id": "e47dff33-b073-44e7-b24f-3e473ea88314",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "9a319028-dd07-4707-80e1-fe968687eb83": {
+        "id": "9a319028-dd07-4707-80e1-fe968687eb83",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "101947f9-e5ad-422e-851c-91257bddaa93": {
+        "id": "101947f9-e5ad-422e-851c-91257bddaa93",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "dbbfcb5c-3788-40b0-9541-f5832c016e76": {
+        "id": "dbbfcb5c-3788-40b0-9541-f5832c016e76",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "504198d3-01b3-4dc1-9391-65e9edf8f49f": {
+        "id": "504198d3-01b3-4dc1-9391-65e9edf8f49f",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "2611356f-c3c5-49c7-b8e9-0b6582836c7f": {
+        "id": "2611356f-c3c5-49c7-b8e9-0b6582836c7f",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "9fb1bb85-c9f5-4c26-a491-071e62e01051": {
+        "id": "9fb1bb85-c9f5-4c26-a491-071e62e01051",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "836d529d-47ea-4870-b3a0-d49d11f3e9b5": {
+        "id": "836d529d-47ea-4870-b3a0-d49d11f3e9b5",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "7c32e5d7-bf33-4e99-97d4-be159ec8ccdc": {
+        "id": "7c32e5d7-bf33-4e99-97d4-be159ec8ccdc",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "c8f70fe1-a4fb-4400-a706-e137a38cde54": {
+        "id": "c8f70fe1-a4fb-4400-a706-e137a38cde54",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "4f4203c9-16da-4e5b-bda3-35c329f3e64b": {
+        "id": "4f4203c9-16da-4e5b-bda3-35c329f3e64b",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "cec56419-5d42-4a6c-bd0b-c97f43b20c77": {
+        "id": "cec56419-5d42-4a6c-bd0b-c97f43b20c77",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "eb79978d-6437-486b-b386-9be32bd66e47": {
+        "id": "eb79978d-6437-486b-b386-9be32bd66e47",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "5c7255c6-0b95-4070-8852-5793000f9969": {
+        "id": "5c7255c6-0b95-4070-8852-5793000f9969",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "8fd20811-b65f-405f-9f2a-d5cc2feefbe4": {
+        "id": "8fd20811-b65f-405f-9f2a-d5cc2feefbe4",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "82b1ac70-9fda-499f-9a6d-0e23f4242c6c": {
+        "id": "82b1ac70-9fda-499f-9a6d-0e23f4242c6c",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "011c75b0-f64d-4cad-831c-72492fc67426": {
+        "id": "011c75b0-f64d-4cad-831c-72492fc67426",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "2a4336f0-8028-4d86-b6b5-f43fb1a989ef": {
+        "id": "2a4336f0-8028-4d86-b6b5-f43fb1a989ef",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "7fdbb8a8-185f-4044-bd2a-776f7d3ebe32": {
+        "id": "7fdbb8a8-185f-4044-bd2a-776f7d3ebe32",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "3b990c85-4156-488c-968f-7057c010f1fe": {
+        "id": "3b990c85-4156-488c-968f-7057c010f1fe",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "ff53d9b7-1883-47a4-9136-2b55582176fb": {
+        "id": "ff53d9b7-1883-47a4-9136-2b55582176fb",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "3bdf2501-331e-429c-95a1-fdf54f526078": {
+        "id": "3bdf2501-331e-429c-95a1-fdf54f526078",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "428b73a1-e6f3-438c-a99e-ae69f6dbc502": {
+        "id": "428b73a1-e6f3-438c-a99e-ae69f6dbc502",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "1b44bb3f-75c5-4128-913a-b0d3a5d11f67": {
+        "id": "1b44bb3f-75c5-4128-913a-b0d3a5d11f67",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "10053be3-adc0-4a65-b651-0d65225d6af9": {
+        "id": "10053be3-adc0-4a65-b651-0d65225d6af9",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "305cba47-fed9-4d11-9248-4b3ad38d2250": {
+        "id": "305cba47-fed9-4d11-9248-4b3ad38d2250",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "c3d6939c-27b2-4c8a-9406-fceb3117585e": {
+        "id": "c3d6939c-27b2-4c8a-9406-fceb3117585e",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "fc669eb3-91e7-4ef7-8ad0-c1630530cea8": {
+        "id": "fc669eb3-91e7-4ef7-8ad0-c1630530cea8",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "d668bfee-43bc-42c7-8496-a72313f26827": {
+        "id": "d668bfee-43bc-42c7-8496-a72313f26827",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "76e4eb60-b991-44b4-b7b6-5f54b20c2717": {
+        "id": "76e4eb60-b991-44b4-b7b6-5f54b20c2717",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "9faf0dd0-4ea9-42b4-9e7e-ffd0f5e0c7db": {
+        "id": "9faf0dd0-4ea9-42b4-9e7e-ffd0f5e0c7db",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "3c7dff40-079a-48dc-baeb-5db1265815d2": {
+        "id": "3c7dff40-079a-48dc-baeb-5db1265815d2",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "10c7d9a4-3ec8-4b12-b33f-6d6fa8a00665": {
+        "id": "10c7d9a4-3ec8-4b12-b33f-6d6fa8a00665",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "eb7811b0-0985-4671-89f3-b29ad6a1db44": {
+        "id": "eb7811b0-0985-4671-89f3-b29ad6a1db44",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "b3e11f04-55df-44f2-9063-4d2e9e4cad52": {
+        "id": "b3e11f04-55df-44f2-9063-4d2e9e4cad52",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "639cf962-8f20-4feb-a3f8-8b2fff38d335": {
+        "id": "639cf962-8f20-4feb-a3f8-8b2fff38d335",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "214d2e39-afad-469f-aea6-26fea1d2344f": {
+        "id": "214d2e39-afad-469f-aea6-26fea1d2344f",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "a949afbf-9c2d-4217-9521-398a087cc639": {
+        "id": "a949afbf-9c2d-4217-9521-398a087cc639",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "d8117106-6018-44b0-99b8-a634f5426589": {
+        "id": "d8117106-6018-44b0-99b8-a634f5426589",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "b1957f18-20af-4eca-8eec-2cf0f599f3aa": {
+        "id": "b1957f18-20af-4eca-8eec-2cf0f599f3aa",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "06645799-9934-4eba-acf2-ad43c285939b": {
+        "id": "06645799-9934-4eba-acf2-ad43c285939b",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "079971b7-a9db-4e03-a5bb-498aa8782d7e": {
+        "id": "079971b7-a9db-4e03-a5bb-498aa8782d7e",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "c7e11365-984b-4b14-b230-888e852a5cc6": {
+        "id": "c7e11365-984b-4b14-b230-888e852a5cc6",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "c29c7db0-17f5-4e78-ba24-828d3d29538b": {
+        "id": "c29c7db0-17f5-4e78-ba24-828d3d29538b",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "e1ae7cc5-3227-4cbf-988d-8d334bde0a21": {
+        "id": "e1ae7cc5-3227-4cbf-988d-8d334bde0a21",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "0576a776-96c0-4c2c-b176-0b6348d1992f": {
+        "id": "0576a776-96c0-4c2c-b176-0b6348d1992f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "78d4b642-d7e2-4302-9941-8b48dad8a71f": {
+        "id": "78d4b642-d7e2-4302-9941-8b48dad8a71f",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "58e1992a-024a-49eb-b47a-9be495f32d81": {
+        "id": "58e1992a-024a-49eb-b47a-9be495f32d81",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "370dfa6c-a07e-4e5c-9297-3efe449afc13": {
+        "id": "370dfa6c-a07e-4e5c-9297-3efe449afc13",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "7224ff2e-a22b-42f5-ae38-c75ef16bc510": {
+        "id": "7224ff2e-a22b-42f5-ae38-c75ef16bc510",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "7077bc9a-510c-4980-a926-769ea97ba539": {
+        "id": "7077bc9a-510c-4980-a926-769ea97ba539",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "b150bafe-7c03-4abe-b726-0a3a30df8011": {
+        "id": "b150bafe-7c03-4abe-b726-0a3a30df8011",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "459d3151-dbff-46af-8a21-b107513d6ced": {
+        "id": "459d3151-dbff-46af-8a21-b107513d6ced",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "4f46ffb7-437c-4213-ba63-15560b6556c0": {
+        "id": "4f46ffb7-437c-4213-ba63-15560b6556c0",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "b6f8328e-4158-4f51-94a4-85e8eadaef20": {
+        "id": "b6f8328e-4158-4f51-94a4-85e8eadaef20",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "5d08e342-38c6-452f-82c0-d4199e0dbb52": {
+        "id": "5d08e342-38c6-452f-82c0-d4199e0dbb52",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "c69eebbb-765b-40d5-b8d6-ba8ea7b55ba9": {
+        "id": "c69eebbb-765b-40d5-b8d6-ba8ea7b55ba9",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "927f0df1-6677-4ee3-9966-7505224769bb": {
+        "id": "927f0df1-6677-4ee3-9966-7505224769bb",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "c2adcacc-ad62-4676-8ce2-8bc9464a119c": {
+        "id": "c2adcacc-ad62-4676-8ce2-8bc9464a119c",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "ae63cce5-8022-46c9-8069-0f1606bae8a2": {
+        "id": "ae63cce5-8022-46c9-8069-0f1606bae8a2",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "fd4bf701-fa3f-42d3-8895-e75823ea2d7e": {
+        "id": "fd4bf701-fa3f-42d3-8895-e75823ea2d7e",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "b759da61-a5f2-4845-9712-601132d66488": {
+        "id": "b759da61-a5f2-4845-9712-601132d66488",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "9124f46c-538d-4641-9def-1074ff7825fc": {
+        "id": "9124f46c-538d-4641-9def-1074ff7825fc",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "fc537e82-09fb-4992-bce6-6198c8a17adb": {
+        "id": "fc537e82-09fb-4992-bce6-6198c8a17adb",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "ca7ae9a4-186e-4545-b5ab-1c15cd9fec02": {
+        "id": "ca7ae9a4-186e-4545-b5ab-1c15cd9fec02",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "dea059de-5733-436f-9707-797cad5835b5": {
+        "id": "dea059de-5733-436f-9707-797cad5835b5",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "830898fa-bc12-4c36-8fb6-0485919105e2": {
+        "id": "830898fa-bc12-4c36-8fb6-0485919105e2",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "211f9519-cc51-4698-a01e-f474c595f2b8": {
+        "id": "211f9519-cc51-4698-a01e-f474c595f2b8",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "5c433475-795e-4d52-b850-c4eedbb46721": {
+        "id": "5c433475-795e-4d52-b850-c4eedbb46721",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "f71f7248-8458-4bcf-a3eb-3427d945000e": {
+        "id": "f71f7248-8458-4bcf-a3eb-3427d945000e",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "d0d2a263-4510-473e-810a-4a149fe83f1f": {
+        "id": "d0d2a263-4510-473e-810a-4a149fe83f1f",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "475993f8-2fb0-47b3-934c-48c75c28ea3d": {
+        "id": "475993f8-2fb0-47b3-934c-48c75c28ea3d",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "37b66645-913f-491a-98fa-8120f67e77cd": {
+        "id": "37b66645-913f-491a-98fa-8120f67e77cd",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "eb0dcd69-d9f9-4a6f-9a7f-940c7de616e0": {
+        "id": "eb0dcd69-d9f9-4a6f-9a7f-940c7de616e0",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "b6192af1-14c2-4ac6-82c7-8c64ac03ac36": {
+        "id": "b6192af1-14c2-4ac6-82c7-8c64ac03ac36",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "ce7dd19b-0bbe-46ac-b2ca-95c4aa4e840b": {
+        "id": "ce7dd19b-0bbe-46ac-b2ca-95c4aa4e840b",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "c675b585-560c-4247-9282-405c4b293bce": {
+        "id": "c675b585-560c-4247-9282-405c4b293bce",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "6d2341bd-9e21-4c2b-bcca-aae7152741e9": {
+        "id": "6d2341bd-9e21-4c2b-bcca-aae7152741e9",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "d91e1a98-7d47-4a84-8de2-ddaa0faa98b9": {
+        "id": "d91e1a98-7d47-4a84-8de2-ddaa0faa98b9",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "6858286c-3330-4e5c-8a64-d75f89d0ff81": {
+        "id": "6858286c-3330-4e5c-8a64-d75f89d0ff81",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "1d7c3b9f-36b5-4cb6-b36f-928d5749dce3": {
+        "id": "1d7c3b9f-36b5-4cb6-b36f-928d5749dce3",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "2ff7f4a4-86be-40f9-a5d1-e6964c1071d0": {
+        "id": "2ff7f4a4-86be-40f9-a5d1-e6964c1071d0",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "2e16d4c6-e526-405f-a627-0853c7fd2b2b": {
+        "id": "2e16d4c6-e526-405f-a627-0853c7fd2b2b",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "75f22571-e158-4c57-85e5-001321022f11": {
+        "id": "75f22571-e158-4c57-85e5-001321022f11",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "4c71ebf4-48fd-489b-a3dc-1e772e9873e8": {
+        "id": "4c71ebf4-48fd-489b-a3dc-1e772e9873e8",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "b9d4f490-0463-48c1-b95e-39a653e084e9": {
+        "id": "b9d4f490-0463-48c1-b95e-39a653e084e9",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "c2d5b763-7429-47ad-8708-4dcc74238c0b": {
+        "id": "c2d5b763-7429-47ad-8708-4dcc74238c0b",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "989fb9d2-224b-487e-9711-28a0ae162b5b": {
+        "id": "989fb9d2-224b-487e-9711-28a0ae162b5b",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "74eda32e-52ea-471f-9b85-8ee34f772dc3": {
+        "id": "74eda32e-52ea-471f-9b85-8ee34f772dc3",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "8bb0280b-fca1-471a-9093-802e4779eba9": {
+        "id": "8bb0280b-fca1-471a-9093-802e4779eba9",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "3642eab8-1244-4954-b1ac-3fb810c9227b": {
+        "id": "3642eab8-1244-4954-b1ac-3fb810c9227b",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "3de50ad5-bc37-4e67-a22d-b8bb47ee72c4": {
+        "id": "3de50ad5-bc37-4e67-a22d-b8bb47ee72c4",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "dff61da6-0132-48f8-b2a3-ef1c10392bc1": {
+        "id": "dff61da6-0132-48f8-b2a3-ef1c10392bc1",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "ad878d28-84ba-4b29-8d9b-591b88ad0b59": {
+        "id": "ad878d28-84ba-4b29-8d9b-591b88ad0b59",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "c5ca6e8f-acc8-4695-a0d1-c86df68cd4c9": {
+        "id": "c5ca6e8f-acc8-4695-a0d1-c86df68cd4c9",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "0c5ed689-60b2-4cc9-bc50-192a409191bb": {
+        "id": "0c5ed689-60b2-4cc9-bc50-192a409191bb",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "46b53e22-83ec-4463-b229-5f15ae3a89a6": {
+        "id": "46b53e22-83ec-4463-b229-5f15ae3a89a6",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "9a6725f9-d0c1-4efc-a26d-a1b59e648225": {
+        "id": "9a6725f9-d0c1-4efc-a26d-a1b59e648225",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "1b406597-d7b2-45ec-82dc-e75261325dd9": {
+        "id": "1b406597-d7b2-45ec-82dc-e75261325dd9",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "b9317ee7-8501-48b0-bca0-5ac0b19cddf5": {
+        "id": "b9317ee7-8501-48b0-bca0-5ac0b19cddf5",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "3f83ece4-8084-468c-9c09-92360762a623": {
+        "id": "3f83ece4-8084-468c-9c09-92360762a623",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "da012580-4db0-444b-8399-4916f8b57a0c": {
+        "id": "da012580-4db0-444b-8399-4916f8b57a0c",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "788e9754-5f33-48ca-9e08-eeb7533a5f30": {
+        "id": "788e9754-5f33-48ca-9e08-eeb7533a5f30",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "d2dfe06d-9833-48cc-97ef-2f0f2e5750f6": {
+        "id": "d2dfe06d-9833-48cc-97ef-2f0f2e5750f6",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "802b6235-1d3e-4ca4-88ba-ef2dc14fd70b": {
+        "id": "802b6235-1d3e-4ca4-88ba-ef2dc14fd70b",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "fb0bc46a-5f97-47ca-befe-2f915dba4f94": {
+        "id": "fb0bc46a-5f97-47ca-befe-2f915dba4f94",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "c0e6f185-be78-461b-9d2d-0066d76bd52c": {
+        "id": "c0e6f185-be78-461b-9d2d-0066d76bd52c",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "04117670-559d-4280-80d9-170ba66501bf": {
+        "id": "04117670-559d-4280-80d9-170ba66501bf",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "40326c42-020a-4b14-9eb1-bebcb5312229": {
+        "id": "40326c42-020a-4b14-9eb1-bebcb5312229",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "75c5d054-aec3-4b9e-b9c1-14c295825e12": {
+        "id": "75c5d054-aec3-4b9e-b9c1-14c295825e12",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "41f4a388-8469-4352-9797-ef1f93b97b5e": {
+        "id": "41f4a388-8469-4352-9797-ef1f93b97b5e",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "43f33e07-0f04-403e-9090-6b5d0c37e005": {
+        "id": "43f33e07-0f04-403e-9090-6b5d0c37e005",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "9cbd4c29-500c-482d-8f66-eac82d61f2ef": {
+        "id": "9cbd4c29-500c-482d-8f66-eac82d61f2ef",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "7254226d-93d2-43cf-8271-5fa5b8029f7f": {
+        "id": "7254226d-93d2-43cf-8271-5fa5b8029f7f",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "5b789e55-5dc2-4f80-a054-4829691a6fc4": {
+        "id": "5b789e55-5dc2-4f80-a054-4829691a6fc4",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "1aeeeb3b-3a55-477c-a5c6-458306901e33": {
+        "id": "1aeeeb3b-3a55-477c-a5c6-458306901e33",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "772b803d-39ef-4fee-95c2-385180f0132d": {
+        "id": "772b803d-39ef-4fee-95c2-385180f0132d",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "253c2fd9-97d3-4df7-9b97-1df10940b47b": {
+        "id": "253c2fd9-97d3-4df7-9b97-1df10940b47b",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "e478cd27-9142-4ec8-afe8-17af807e10b4": {
+        "id": "e478cd27-9142-4ec8-afe8-17af807e10b4",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "7cc86d9a-35b2-4e3a-92e2-290c33b60db1": {
+        "id": "7cc86d9a-35b2-4e3a-92e2-290c33b60db1",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "a4be2960-3273-4805-91e1-4f1df67e50c4": {
+        "id": "a4be2960-3273-4805-91e1-4f1df67e50c4",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "5111b7be-52a5-431b-b562-d32cbb745758": {
+        "id": "5111b7be-52a5-431b-b562-d32cbb745758",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "09e54b69-0990-4db4-b8c5-039e6edde06b": {
+        "id": "09e54b69-0990-4db4-b8c5-039e6edde06b",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "7cb13536-8555-4302-ae63-c0c0214f90b3": {
+        "id": "7cb13536-8555-4302-ae63-c0c0214f90b3",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "10b21d65-a0a6-4e31-b400-c6989bbb8b62": {
+        "id": "10b21d65-a0a6-4e31-b400-c6989bbb8b62",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "58945e60-df3b-43df-a459-671dd4dbf3cd": {
+        "id": "58945e60-df3b-43df-a459-671dd4dbf3cd",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "997e22d7-790f-4e36-a45c-80e7b9408ba0": {
+        "id": "997e22d7-790f-4e36-a45c-80e7b9408ba0",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "d435da27-16a7-4a8f-bcd3-8d2bcdf4a4ac": {
+        "id": "d435da27-16a7-4a8f-bcd3-8d2bcdf4a4ac",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "8644f7bc-1108-47c4-a0fa-4e7f0cb595b8": {
+        "id": "8644f7bc-1108-47c4-a0fa-4e7f0cb595b8",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "a41416d7-413d-436f-8947-f5260e166651": {
+        "id": "a41416d7-413d-436f-8947-f5260e166651",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "2f877569-4398-44f6-a644-56cc30733ea5": {
+        "id": "2f877569-4398-44f6-a644-56cc30733ea5",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "10a246e7-2bd2-4b79-96d6-bb103f0b0efb": {
+        "id": "10a246e7-2bd2-4b79-96d6-bb103f0b0efb",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "58b46f7c-3bbb-444c-816f-95dac5f030ae": {
+        "id": "58b46f7c-3bbb-444c-816f-95dac5f030ae",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "5e76f9dd-df9d-4383-846a-81d6fae7a09f": {
+        "id": "5e76f9dd-df9d-4383-846a-81d6fae7a09f",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "bb45d965-58c1-40d9-87d7-ef0814094059": {
+        "id": "bb45d965-58c1-40d9-87d7-ef0814094059",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "d8488839-b4cf-4cfc-a9b5-6db4c5fd9db8": {
+        "id": "d8488839-b4cf-4cfc-a9b5-6db4c5fd9db8",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "5a8e181d-8d56-4506-90a1-aac838adbc49": {
+        "id": "5a8e181d-8d56-4506-90a1-aac838adbc49",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "bfc698ad-d1f8-4cac-b1bf-6866615985be": {
+        "id": "bfc698ad-d1f8-4cac-b1bf-6866615985be",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "160e0b7e-f873-47ce-bbe8-f8d8781f6377": {
+        "id": "160e0b7e-f873-47ce-bbe8-f8d8781f6377",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "1e67f15f-b6dd-497f-a633-d35be9e87d12": {
+        "id": "1e67f15f-b6dd-497f-a633-d35be9e87d12",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "97b65158-5057-4fd5-aee7-c750053988b9": {
+        "id": "97b65158-5057-4fd5-aee7-c750053988b9",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "68d3bab9-8c77-445b-9fc2-33129f0dd127": {
+        "id": "68d3bab9-8c77-445b-9fc2-33129f0dd127",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "b34e4ea2-8240-4258-a313-cadf6f63c968": {
+        "id": "b34e4ea2-8240-4258-a313-cadf6f63c968",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "bd0f5801-978b-4fc8-9f4b-b16f3ebd1587": {
+        "id": "bd0f5801-978b-4fc8-9f4b-b16f3ebd1587",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "526f447e-57b2-4213-aae3-5c6580f093ea": {
+        "id": "526f447e-57b2-4213-aae3-5c6580f093ea",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "4967d70e-4e3b-44a2-94be-23c39a1dddd0": {
+        "id": "4967d70e-4e3b-44a2-94be-23c39a1dddd0",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "731cb05c-3626-46a0-8576-d7c2c7df509c": {
+        "id": "731cb05c-3626-46a0-8576-d7c2c7df509c",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "5ed04393-da7c-420b-9f2f-a1ce0826f96e": {
+        "id": "5ed04393-da7c-420b-9f2f-a1ce0826f96e",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "076767b5-3718-476f-b463-2cea8f6bbfb5": {
+        "id": "076767b5-3718-476f-b463-2cea8f6bbfb5",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "db291059-7a25-463e-b9f0-eeb7d5fbc99f": {
+        "id": "db291059-7a25-463e-b9f0-eeb7d5fbc99f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "16139a04-83ca-4e10-a554-0f0b154739ae": {
+        "id": "16139a04-83ca-4e10-a554-0f0b154739ae",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "1c667276-94b0-4803-b0e3-d0966bb626e1": {
+        "id": "1c667276-94b0-4803-b0e3-d0966bb626e1",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "368afe53-aa11-41ab-8426-124188170463": {
+        "id": "368afe53-aa11-41ab-8426-124188170463",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "37920e85-53b6-4b6a-b372-ba7c00672617": {
+        "id": "37920e85-53b6-4b6a-b372-ba7c00672617",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "b5ebdb03-38f9-44dd-9348-40db503ebd50": {
+        "id": "b5ebdb03-38f9-44dd-9348-40db503ebd50",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "8a7602bf-c2f2-4f8d-84cd-65d0ba945a1a": {
+        "id": "8a7602bf-c2f2-4f8d-84cd-65d0ba945a1a",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "1e53d215-f06a-4065-9a8f-0668cab41175": {
+        "id": "1e53d215-f06a-4065-9a8f-0668cab41175",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "30f7831c-d5dd-4602-81c7-e0af083ce674": {
+        "id": "30f7831c-d5dd-4602-81c7-e0af083ce674",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "181b7740-b46e-47b0-a6b1-ea3341d9d763": {
+        "id": "181b7740-b46e-47b0-a6b1-ea3341d9d763",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "98d84fa5-bf8a-4f3d-a1c8-410fa1fd7adf": {
+        "id": "98d84fa5-bf8a-4f3d-a1c8-410fa1fd7adf",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "bd9579ca-7a15-43ea-9813-64df34928cc3": {
+        "id": "bd9579ca-7a15-43ea-9813-64df34928cc3",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "efdda821-4826-4ce9-87b1-a849541fd543": {
+        "id": "efdda821-4826-4ce9-87b1-a849541fd543",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "fc33a53f-9673-4946-b50d-6431b104806d": {
+        "id": "fc33a53f-9673-4946-b50d-6431b104806d",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "95d7f2fc-e925-4ceb-9aeb-9fa3ecf96c18": {
+        "id": "95d7f2fc-e925-4ceb-9aeb-9fa3ecf96c18",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "0bf2c9c1-3a1f-44b1-955d-79456ba3f6c5": {
+        "id": "0bf2c9c1-3a1f-44b1-955d-79456ba3f6c5",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "23b9fcb2-99b6-453b-bbf9-f63d6e274707": {
+        "id": "23b9fcb2-99b6-453b-bbf9-f63d6e274707",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "036f8fad-9bb9-4f66-bea4-f5c22988395c": {
+        "id": "036f8fad-9bb9-4f66-bea4-f5c22988395c",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "0a7b78c1-3109-4e68-ad5e-9c6bd6c570b5": {
+        "id": "0a7b78c1-3109-4e68-ad5e-9c6bd6c570b5",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "c1dc72a9-b364-4e4f-b2f9-c6df7c298212": {
+        "id": "c1dc72a9-b364-4e4f-b2f9-c6df7c298212",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "c313f3d0-5a22-4bd7-ba00-dd0051fb11e2": {
+        "id": "c313f3d0-5a22-4bd7-ba00-dd0051fb11e2",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "sent"
+    },
+    "5147fc47-f492-4fee-b965-6fec1d0a00d7": {
+        "id": "5147fc47-f492-4fee-b965-6fec1d0a00d7",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "5dcae5d6-9bf5-4165-a64f-f03aab50300e": {
+        "id": "5dcae5d6-9bf5-4165-a64f-f03aab50300e",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "9d656528-f165-4125-9a95-b0f9c0531299": {
+        "id": "9d656528-f165-4125-9a95-b0f9c0531299",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "779a112d-df04-4973-beb8-786eb9c5f1cc": {
+        "id": "779a112d-df04-4973-beb8-786eb9c5f1cc",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "7e4a4050-b92d-4d92-adc4-9b3cf5b49837": {
+        "id": "7e4a4050-b92d-4d92-adc4-9b3cf5b49837",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "d0fadfc5-0489-473f-add7-a153bdcb48d3": {
+        "id": "d0fadfc5-0489-473f-add7-a153bdcb48d3",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "a062aa58-a1cb-406a-b888-c81655a903cf": {
+        "id": "a062aa58-a1cb-406a-b888-c81655a903cf",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "13d6d2d0-0f5f-4cec-99ad-0dc2dab72034": {
+        "id": "13d6d2d0-0f5f-4cec-99ad-0dc2dab72034",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "ca6417ea-4d04-47e3-a95d-db138df3e4c1": {
+        "id": "ca6417ea-4d04-47e3-a95d-db138df3e4c1",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "09a322b9-a420-4677-bff0-7b6da1a4e852": {
+        "id": "09a322b9-a420-4677-bff0-7b6da1a4e852",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "d34a2754-98da-4979-a2d9-358da1723527": {
+        "id": "d34a2754-98da-4979-a2d9-358da1723527",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "da2aca5e-1002-4d81-b8b7-80d8ee896f4f": {
+        "id": "da2aca5e-1002-4d81-b8b7-80d8ee896f4f",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "990f0b92-950d-441f-8348-37134f598e61": {
+        "id": "990f0b92-950d-441f-8348-37134f598e61",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "8d0fd6db-da92-4cae-88c6-aef663e612cb": {
+        "id": "8d0fd6db-da92-4cae-88c6-aef663e612cb",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "1bbd5b0b-b2ad-4d4d-918a-f45013ce6638": {
+        "id": "1bbd5b0b-b2ad-4d4d-918a-f45013ce6638",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "31225833-428f-4647-9214-50044462ba16": {
+        "id": "31225833-428f-4647-9214-50044462ba16",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "32f93426-1362-483a-82dc-ec7d9a4fd420": {
+        "id": "32f93426-1362-483a-82dc-ec7d9a4fd420",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "1300542f-1e4f-4ec0-9e38-da422d30487f": {
+        "id": "1300542f-1e4f-4ec0-9e38-da422d30487f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "f3f955c0-358e-4004-8915-a37c4b7667dc": {
+        "id": "f3f955c0-358e-4004-8915-a37c4b7667dc",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "aee8318a-4929-4516-88f1-d68fd65ef4b8": {
+        "id": "aee8318a-4929-4516-88f1-d68fd65ef4b8",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "ef2f6339-2668-4d97-b050-4238e944ddf8": {
+        "id": "ef2f6339-2668-4d97-b050-4238e944ddf8",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "e80972d0-2625-4c0a-a6a7-ade9e7e2a975": {
+        "id": "e80972d0-2625-4c0a-a6a7-ade9e7e2a975",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "sent"
+    },
+    "434a077b-8248-4676-933d-ddfdc748d9b9": {
+        "id": "434a077b-8248-4676-933d-ddfdc748d9b9",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "a3f611c2-c64e-453a-8977-6e503c423f95": {
+        "id": "a3f611c2-c64e-453a-8977-6e503c423f95",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "099f414d-06fa-471c-b854-3b6fd6fcb427": {
+        "id": "099f414d-06fa-471c-b854-3b6fd6fcb427",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "40118af1-e830-4c5f-b5a4-b0036e642498": {
+        "id": "40118af1-e830-4c5f-b5a4-b0036e642498",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "3ef82766-a889-492b-9efb-f008c1b403b9": {
+        "id": "3ef82766-a889-492b-9efb-f008c1b403b9",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "1fcf9839-2929-4fe0-ba48-c25e8f5c7044": {
+        "id": "1fcf9839-2929-4fe0-ba48-c25e8f5c7044",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "5bd61288-96e3-4fae-9f9c-c567a237c938": {
+        "id": "5bd61288-96e3-4fae-9f9c-c567a237c938",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "d1fc4c2c-8b79-4927-a3f8-1e5904db0a96": {
+        "id": "d1fc4c2c-8b79-4927-a3f8-1e5904db0a96",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "6d916bfb-f0d4-42e7-a190-ca008b6ea126": {
+        "id": "6d916bfb-f0d4-42e7-a190-ca008b6ea126",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "3bcdc07e-d410-43cb-a2de-8e30324aab2a": {
+        "id": "3bcdc07e-d410-43cb-a2de-8e30324aab2a",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "73cd5a2b-0014-47a2-8e0d-e40d41ec60ce": {
+        "id": "73cd5a2b-0014-47a2-8e0d-e40d41ec60ce",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "93bb9b0f-6d26-451f-ac38-51fcabd00298": {
+        "id": "93bb9b0f-6d26-451f-ac38-51fcabd00298",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "9e605704-b844-417e-ac6f-f3d82a77d83f": {
+        "id": "9e605704-b844-417e-ac6f-f3d82a77d83f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "636f3d2e-e851-4f41-82e4-1f8c52607708": {
+        "id": "636f3d2e-e851-4f41-82e4-1f8c52607708",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "1df0cb7b-a051-49d6-aa4a-bf2dea9b415a": {
+        "id": "1df0cb7b-a051-49d6-aa4a-bf2dea9b415a",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "c43d0b36-d87e-4881-a76b-b96e49a4d1e3": {
+        "id": "c43d0b36-d87e-4881-a76b-b96e49a4d1e3",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "764a3d27-2a2f-439a-af3f-428ba750c152": {
+        "id": "764a3d27-2a2f-439a-af3f-428ba750c152",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "b20f6b7d-8982-42c2-bba4-7a33474f3670": {
+        "id": "b20f6b7d-8982-42c2-bba4-7a33474f3670",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "66007a95-3117-405c-9367-ace61206715e": {
+        "id": "66007a95-3117-405c-9367-ace61206715e",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "fb43f2f7-96af-4751-91a6-0f837cc0a282": {
+        "id": "fb43f2f7-96af-4751-91a6-0f837cc0a282",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "0145bdbb-02bf-470b-ac25-a466e1d7a09e": {
+        "id": "0145bdbb-02bf-470b-ac25-a466e1d7a09e",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "ded68466-7426-4361-ad65-4319ec33caee": {
+        "id": "ded68466-7426-4361-ad65-4319ec33caee",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "930d5859-6154-4cdc-93a1-0aca68f582d4": {
+        "id": "930d5859-6154-4cdc-93a1-0aca68f582d4",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "722b0999-583b-48f6-a048-f171b6ce54af": {
+        "id": "722b0999-583b-48f6-a048-f171b6ce54af",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "794a2fa2-8efe-4573-b562-a41b89224056": {
+        "id": "794a2fa2-8efe-4573-b562-a41b89224056",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "ac89e58c-08bc-464d-bbea-dfd0ec2a512c": {
+        "id": "ac89e58c-08bc-464d-bbea-dfd0ec2a512c",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "4d50251e-15b6-4f5c-a18a-fcaf6ab9c93f": {
+        "id": "4d50251e-15b6-4f5c-a18a-fcaf6ab9c93f",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "97965807-f327-4cab-b8a6-3cdb51e19638": {
+        "id": "97965807-f327-4cab-b8a6-3cdb51e19638",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "90b8fef9-2514-4a87-8e44-1048088f1193": {
+        "id": "90b8fef9-2514-4a87-8e44-1048088f1193",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "36be03f4-2382-4833-904a-d14dd884fff7": {
+        "id": "36be03f4-2382-4833-904a-d14dd884fff7",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "759f9c79-e47d-4ee4-9c90-7bdfc7d3845f": {
+        "id": "759f9c79-e47d-4ee4-9c90-7bdfc7d3845f",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "139c6c07-8be3-4711-a1c4-d471fa2e6814": {
+        "id": "139c6c07-8be3-4711-a1c4-d471fa2e6814",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "c3b6602f-82bf-481b-9291-3e8ac58f2142": {
+        "id": "c3b6602f-82bf-481b-9291-3e8ac58f2142",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "802a07dd-572d-419b-a3ff-769f4cab7872": {
+        "id": "802a07dd-572d-419b-a3ff-769f4cab7872",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "aaa8ff25-0805-4492-b3b9-2ad51fdd0937": {
+        "id": "aaa8ff25-0805-4492-b3b9-2ad51fdd0937",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "b41f95e8-6dc4-4b44-81d4-d232e17c2d47": {
+        "id": "b41f95e8-6dc4-4b44-81d4-d232e17c2d47",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "9c458fe4-07c5-4a49-b791-8b80bfca20aa": {
+        "id": "9c458fe4-07c5-4a49-b791-8b80bfca20aa",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "922204d8-1875-4967-b047-9bc395295c56": {
+        "id": "922204d8-1875-4967-b047-9bc395295c56",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "30f8b057-a78e-4b03-b247-cb2a33944433": {
+        "id": "30f8b057-a78e-4b03-b247-cb2a33944433",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "e5710620-e934-48c2-bb5c-b2b6cd76eec9": {
+        "id": "e5710620-e934-48c2-bb5c-b2b6cd76eec9",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "5f95aad0-f817-4ad1-800c-bb4337e4d1fd": {
+        "id": "5f95aad0-f817-4ad1-800c-bb4337e4d1fd",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "sent"
+    },
+    "02127d76-4356-442b-8240-8754dd58417f": {
+        "id": "02127d76-4356-442b-8240-8754dd58417f",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "25205adc-3901-421c-8579-f32a3312582a": {
+        "id": "25205adc-3901-421c-8579-f32a3312582a",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "sent"
+    },
+    "7faff6d0-e54b-4a0b-807f-295c89ba194c": {
+        "id": "7faff6d0-e54b-4a0b-807f-295c89ba194c",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "d78f174b-96af-4072-979c-326a7af341a5": {
+        "id": "d78f174b-96af-4072-979c-326a7af341a5",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "35878b5b-da09-44a0-8562-7751c72aa79d": {
+        "id": "35878b5b-da09-44a0-8562-7751c72aa79d",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    },
+    "4426255d-a470-4f49-9ead-8ee813420dd2": {
+        "id": "4426255d-a470-4f49-9ead-8ee813420dd2",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "a508bb5a-46bf-46e6-9906-002738eb1702": {
+        "id": "a508bb5a-46bf-46e6-9906-002738eb1702",
+        "user_input": "Enviar email a juan@example.com diciendo que su paquete est\u00e1 en camino.",
+        "status": "failed"
+    },
+    "0e0454ea-004b-4d53-82df-e772c86f3923": {
+        "id": "0e0454ea-004b-4d53-82df-e772c86f3923",
+        "user_input": "Recordatorio por tel\u00e9fono al 699888777: cita a las 10:00",
+        "status": "failed"
+    },
+    "3f20c51e-a86b-44bc-b9ed-2066c2fa5bc3": {
+        "id": "3f20c51e-a86b-44bc-b9ed-2066c2fa5bc3",
+        "user_input": "Manda un correo a marta@app.com: Tienes un nuevo mensaje.",
+        "status": "failed"
+    },
+    "809510ae-c93a-40d9-83ea-36dca3571c64": {
+        "id": "809510ae-c93a-40d9-83ea-36dca3571c64",
+        "user_input": "Avisar por SMS al 600-111-222 que la reserva ha sido confirmada.",
+        "status": "failed"
+    }
+}
