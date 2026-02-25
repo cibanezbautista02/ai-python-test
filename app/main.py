@@ -22,7 +22,7 @@ client_shared = httpx.AsyncClient(timeout=30.0, limits=httpx.Limits(max_connecti
 
 #Funciones auxiliares
 def send_to_bbdd():
-    """Escribe el estado completo de forma segura (sobrescribiendo)"""
+    """Escribe el estado completo de forma segura,sobrescribiendo para evitar la latencia"""
     try:
         with open(bbdd_path, "w") as f:
             json.dump(bbdd, f, indent=4)
@@ -87,7 +87,8 @@ async def request_notification(body: RequestInputBody):
 
 @app.post("/v1/requests/{id}/process")
 async def async_process_notification(id: str):
-
+    """En esta funcion definimos el proceso
+    completo de llamada al modelo de IA"""
     if id not in bbdd:
         raise HTTPException(status_code=404, detail="Notification not found")
 
